@@ -1,0 +1,645 @@
+﻿Date,Subreddit,Issue Type,Post Link,Title,Content,Additional Notes,Suggested tags,Suggested problem type,Security certainty (suggested),Matched keywords,Review (weak hits),Mod/CC type hint,Source hint,Link domains,Coder: problem reported,Coder: problem type,Coder: mod/CC type,Coder: download source,Coder: mistake,Coder: notes,Tags
+9/30/2026,r/thesims,Game errors/conflicts,https://www.reddit.com/r/thesims/s/f4x60020kE,"did i get some kind of virus?
+","My game crashed 7-8 times today out of nowhere, then my computer itself crashed and i restarted it, when i opened it back i had THESE CC on my screen that i deleted a few days ago, now when i was playing again my computer automatically transferred me to a crypto website through Microsoft edge? It was called htx.com. Is this normal? Im sorry, im not good at tech stuff 😭",,Malware/virus scare; Scam/fake download page; Game errors/conflicts,both,suspected,"Malware/virus scare: virus | Scam/fake download page: crypto website, transferred me to a crypto website | Game errors/conflicts: crashed",,Other / unclear,Not stated,,,,,,,,
+7/1/2026,r/thesims,Malware/virus scare,https://www.reddit.com/r/thesims/s/eyMyzKzo4R,"I saw this on scarlets realm, these mods have malware. Go and check it out to see if you have these mods.
+","[Image] I'm making this post again because somehow it pissed some people off, don't know why.",,Malware/virus scare,security,check by hand,Malware/virus scare: malware,,Other / unclear,Not stated,,,,,,,,
+7/23/2026,r/thesims,Malware/virus scare,https://www.reddit.com/r/thesims/s/vyR3pHMf8j,why does windows defender says that sims 4 is a trojan virus? (ea app),"[Image] translation
+
+Threat Quarantined
+
+Severe
+
+Detected: Trojan:Win32/Phonzy.A!ml
+
+Status: Quarantined
+
+Date: 23.07.2026 00:07
+
+Details: This program is dangerous. It executes commands from an attacker.","Comment: Well, I think because their shitty software steal stuff from your PC lol
+
+I bet some new idiotic poorly made update of EA app is falsely flagged",Malware/virus scare,security,suspected,"Malware/virus scare: trojan, virus, windows defender, quarantined",,Other / unclear,Not stated,,,,,,,,
+10/20/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1xayn9w/how_do_i_fix_this_issue/,"How do I fix this issue?
+","Hi everyone this is my first time posting on Reddit so I’m hoping you guys can help me out. So for the past week and a half, my game has not been able to open because I keep getting a pop up about a corrupted file in my mods folder. When it first came up I removed the mod immediately and tried to open the game again. The same pop up came up, so I tried to repair the game. I repaired it and again I went to play and the pop up came back. So I uninstalled the game and reinstalled it. Once again I went to play the sims and the same pop up came back up. So now I’m wondering what else could be the problem and what I can do. I don’t know if I want to try the method of taking out half my mods and seeing what the issue is. I’m speculating it might be a save file of mine but I don’t know. Any help would be greatly appreciated. I really hope it’s not a save file as I don’t want to start a whole new save.",,Corrupted/broken save,technical,,Corrupted/broken save: corrupted,,Other / unclear,Not stated,,,,,,,,
+10/17/2026,r/thesims,Scam/fake download page,https://www.reddit.com/r/thesims/s/gHFTrJP89t,"Warning From The MCCC Discord Server About Simandy's CC on SFS Being Hacked So Be Weary
+",[image],,Account/info theft,security,check by hand,Account/info theft: hacked,,Script mod,Discord,,,,,,,,
+11/1/2026,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1xkwqjz/info_sharing_about_virus_attacks/,Info Sharing About Virus Attacks,"This one is brand new to me gang so I wanted to share.
+I was downloading cc for a build and got the cloudflare verify if human.
+It seemed pretty standard until suddenly, my browser went Fullscreen and I couldn't escape. For a moment I looked at what it was telling me to do but I immediately was like this isn't normal and waaaaay out of line even if it is Cloudflare. I took this screenshot before closing my browser.
+If you come across somethin similar, DO NOT do the steps it tells you. I'm a little freaked out because usually when I take screenshots, it copies to clipboard. It wasn't until after reporting this that I realized i couldn't paste the screenshot i had just took.
+Instead, I kept pasting this cmd line text that basically this attack copied to my clip, and those steps have you paste in to download something to your pc. It targets passwords and logins.
+I wanted to share because I know a lot of ppl that say they got hacked mention their accts being logged in.
+If this happens to you do not follow the steps... im shaking a little lol",,Malware/virus scare; Account/info theft,security,check by hand,"Malware/virus scare: virus | Account/info theft: hacked, passwords",Phishing/social engineering: verify,Other / unclear,Not stated,,,,,,,,
+3/1/2026,r/Sims4,Malware/virus scare,https://www.reddit.com/r/Sims4/comments/1ri85o4/warning_that_modthesims_has_multiple_compromised/,Warning that ModTheSims has multiple compromised accounts. DO NOT DL from there.,"There was a warning this morning about NateTheL0ser's account has been compromised. Now more accounts have been found.
+From the Sims AfterDark discord:
+WARNING: DO NOT DOWNLOAD ANY MODS HOSTED ON MODTHESIMS (MTS),
+We have now been made aware of multiple other ModTheSims accounts which are compromised and following the same pattern of uploading tainted script files. This is almost certainly malicious. Do not download these files. Do not unzip these files. Do not click or run these files. Do not allow these files to remain on your computer. At this point, there is an unfortunate pattern forming and we must urge people to avoid the entire MTS website for the time being.
+The list of affected creators now includes PurrSimity and jellyheadDimbulb. The affected uploads include object CC and recolors. These types of content without gameplay content will NEVER come with a script file, so if you see that it should raise immediate red flags. If you downloaded mods from these creators in the past 24 hours, DELETE THEM, RUN A VIRUS SCAN, and CHANGE YOUR PASSWORDS.
+Be aware that the malicious uploads now include content intended for The Sims 2. While a ts4script file cannot be used or activated by TS2 in any way, it is still risky to have it on your computer and it does signal a willingness by the hacker(s) to attempt attacks through other games in the series.
+Our advice from the previous post remains. Practice extreme hesitance regarding installing any new mods or updates for at least a week. Make sure that any update comes with patch notes, check to see if the creator has mentioned this new upload on social media, and inspect the files inside zips to see if there are new scripts with an unknown purpose.
+This kind of attack should be covered by ModGuard and if you had that installed already then you will likely be okay (but nothing is guaranteed). If you don't have it installed, you should consider downloading it. However, if you did not have ModGuard installed and ran The Sims 4 with any new files from the creators mentioned above installed, you may be in significant trouble. We do not know the full extent of what the malware is capable of. In a worst case scenario, you may need to wipe your OS and change your passwords from a different, uninfected device.
+We will update with more info if any becomes available.",,Malware/virus scare; Account/info theft,security,check by hand,"Malware/virus scare: malware, virus | Account/info theft: account has been compromised, compromised, passwords",Game errors/conflicts: update,Script mod,Discord; Mod hub,,,,,,,,
+7/1/2026,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1ukopbt/having_to_rebuild_mod_foldier_after_virusmalware/,"Having to rebuild Mod Foldier after Virus/Malware, Any Suggestions for SAFE cc places?","I'm ashamed I'm posting this, but I had installed cc and it caused my entire computer to tank via my RAM. I used to install from Simsfileshare, ​Sims Resource, and Patreon. I'm kinda new to cc as I've only recently become a PC user. I want to install some mods for CAS specifically because I like just the creation part as it helps me with making Ocs. Are there any safe places to install from, what file types do I need to look out for, etc. I refuse to touch ModTheSims as I remember reading somewhere it was compromised and riddles with viruses/malware.",,Malware/virus scare; Account/info theft,security,suspected,"Malware/virus scare: malware, virus, viruses | Account/info theft: compromised",,CC: CAS,Patreon; Mod hub,,,,,,,,
+4/23/2026,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1sth0u9/malware_or_viruses_from_cc/,Malware or Viruses from CC,"Hey everyone! I’m a bit newer to the Sims Content community. And I’ve made a major mistake recently that may have compromised my computer. About 3-4 days ago I was searching for some CC and Mods for my game through tumblr links and YouTube videos. I was getting my content from Patreon, LoversLab, CursedForge and SimsShareFile. I thought because I was using popular sims creators sources, the links provided were likely to be safer and less likely to be compromised.
+This is my first time downloading sims content and I wanted to ask if anyone has had a similar experience or has had a file become a virus.
+Edit: thank you everyone for your help. I just wanna say that I took everyone’s consideration and got TwistedMexi’s mod.
+I ended up taking about an hour to go through most of the mods that I downloaded a couple of days ago to see if there was anything that seemed a little bit suspicious. I was able to rule out the Patreon links, the SimsSharefiles, and CursedForage. So that basically left me with single use websites that were either their furniture cc or Korean website that I used.
+I think I found where I went wrong , while doing a malware check I noticed that there’s a lot of PUP related viruses that came up during the process, and when I visited the websites once more, I noticed that there were multiple download links on one page, and I believe I may have clicked the wrong one which sent me to a downloading page which made me download malware.
+I’m still trying to make sure that that’s actually what happened, but I don’t want to compromise my computer again due to me needing my computer to do schoolwork, but I’ll update the post when I finally get some kind of answer.",,Malware/virus scare; Account/info theft,security,suspected,"Malware/virus scare: malware, virus, viruses | Account/info theft: compromised",Game errors/conflicts: update,CC: Build/Buy,Patreon; Tumblr,,,,,,,,
+11/2/2026,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1xlvkhu/if_you_have_a_cc_file_with_that_name_better/,"If you have a CC file with that name, better remove it. Potential Malware.","(Sorry quick repost because I didn’t censor properly) Ran a Malware Scan and they flagged this particular file as Malware. I don’t have a pic of the item sadly as I‘m not sure which one it was and I don’t want to accuse any creator.
+It could be a false alarm ofc but better be safe than sorry so I posted, stay safe!","Comment: If you download cc and it‘s not a simple package file, delete it. Items like cc tops don‘t come with scripts, and definitely not with .exe files!",Malware/virus scare,security,suspected,"Malware/virus scare: malware, flagged",,Other / unclear,Not stated,,,,,,,,
+6/30/2026,r/ModTheSims4,"Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/ModTheSims4/comments/1ujwhy4/sims_4_mod_tool_opinions/,Sims 4 mod tool opinions,"Mod fixer tool opinions
+Hi everyone! I’m making this post to know your opinions regardless the sims 4 mod fixer and modstak. I would like to know if anyone purchased one of those ? Personally I bought modstak and I think it may be a scam. Thank you in advance for your answers :)",,Scam/fake download page,security,suspected,Scam/fake download page: scam,,Other / unclear,Not stated,,,,,,,,
+9/30/2026,r/thesims,"Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/thesims/comments/1wuluxe/did_i_get_some_kind_of_virus/,did i get some kind of virus?,"My game crashed 7-8 times today out of nowhere, then my computer itself crashed and i restarted it, when i opened it back i had THESE CC on my screen that i deleted a few days ago, now when i was playing again my computer automatically transferred me to a crypto website through Microsoft edge? It was called htx.com. Is this normal? Im sorry, im not good at tech stuff 😭",,Malware/virus scare; Scam/fake download page; Game errors/conflicts,both,suspected,"Malware/virus scare: virus | Scam/fake download page: crypto website, transferred me to a crypto website | Game errors/conflicts: crashed",,Other / unclear,Not stated,,,,,,,,
+11/10/2026,r/ModTheSims4,"Game errors/conflicts, Corrupted/broken save",https://www.reddit.com/r/ModTheSims4/comments/1xsz2dt/can_anyone_please_help_me_xx/,"Can anyone please help me. Xx
+","Hello. I recently just made the switch from PlayStation to MacBook sims. This means I have downloaded mods. Recently my game has been glitching and whenever I give my sim an action (eg shower) they stay still and don’t let me control them. I will attach a video below to explain it better but if anyone can help please do xx
+
+
+","Comment: Something is blocking them from reaching the tub. Try moving it to a different spot!
+
+
+",,none,,,,Other / unclear,Not stated,,,,,,,,
+11/10/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/s/YuhFa6m8Vc,"Updater wont download DLC's
+","Hii, im having issue with my sims 4 updater i got the latest version but every dlc is skipped and flagged as Bad statuts, does anyone knows why it does that ? only stuffpacks works and not even very stuffpacks I tried (EP,GP & SP)","Comment: Are you connecting through a VPN? If not, you need to be for it to work.
+
+
+",,none,,,Malware/virus scare: flagged,Other / unclear,Not stated,,,,,,,,
+11/10/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xsfup7/how_do_i_get_mods_and_how_do_i_insert_them_in/,"How do I get mods and how do I Insert them in Sims 4?
+","I'm asking how I do this with a Windows computer, MacBook, and ASUS Vivobook.","Comment: User links: 
+https://help.ea.com/en/articles/the-sims/the-sims-4/how-to-install-mods-the-sims-4/",,none,,,,Other / unclear,Not stated,,,,,,,,
+9/27/2024,r/thesims,Download help/how to,https://www.reddit.com/r/thesims/comments/1fr7xjz/huge_mod_package_request/,"Huge Mod Package Request
+","DOes anyone have access to a huge mod package with a bunch of the popular, small, and realistic mods? If not can anyone make one? It's just really tedious to get all of the mods one by one and place them...thank you!
+
+","Comment: I don't think this is really a thing. Most modders have Terms Of Use that ask you to not reupload their mods. They instead want you to come to their page and do download it. Downloading it directly from the modder vs a third party means you get the updated version of the mod and the modder receives credit for their work. It is tedious work but well worth it for all the work these modders put into it!
+
+
+",,none,,,,Other / unclear,Not stated,,,,,,,,
+12/3/2025,r/thesims,Download help/how to,https://www.reddit.com/r/thesims/comments/1pd8w3r/i_stopped_using_mods_and_im_very_happy_with_my/,"I stopped using mods and I'm very happy with my game!
+","Well that, I deleted all my games and deleted all the mods I had except the MCC and I feel like I loved the game again, it crashed a lot and it frustrated me but now it doesn't crash anymore and it flows beautifully 😌
+
+",,Game errors/conflicts,technical,,Game errors/conflicts: crashed,,Other / unclear,Not stated,,,,,,,,
+2/10/2025,r/thesims,Game errors/conflicts,https://www.reddit.com/r/thesims/comments/1ime3mg/please_stop_hosting_your_content_on_simfileshare/,"Please stop hosting your content on SimFileShare.
+","This site is always unstable and takes hours to download just a few MB. Sometimes you want to download something and have to wait days for the site to get back to normal. Since yesterday, I've been trying to download the neighborhoods from MeetMeToTheRiver, and 2MB files have estimated download times of 2 hours. Maybe next week I'll finally be able to download them when the site works again. 🙄
+
+","Comment: Or if you do decide to upload to simsfilshare, post an alternative link!
+
+
+
+
+",,none,,,,Other / unclear,Not stated,,,,,,,,
+3/11/2026,r/thesims,"Download help/how to, Scam/fake download page",https://www.reddit.com/r/thesims/comments/1rr69kt/is_simsworkshopnet_safe/,"is simsworkshop.net safe
+","im fairly new to downloading CC and when i find a new website i check reddit to see if it's safe to download from but i haven't been able to find any discussion of this site, does anyone know if this website is safe do download from?
+
+","Comment: I've never heard of this website. With the recent hacks into more well known websites I'd stick to patreon pages.
+
+
+",,none,,,,Other / unclear,Not stated,,,,,,,,
+10/30/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xj1hn1/,Best method to manage and organise mods? (new player),"Hi, i am completely new to sims 4. i keep seeing these things about mods and cas and cc? from what ive seen it seems that people have their own ways of organising. I've seen some people say the mod manager by gametimedev caused them some issues when updating so i am hesitant on using it. I know that it is recommended that in the mods folder  you don't place a folder within another so that the game can read the file but other than that i am truly at a loss with how to categorise folders as a beginner. How specific do i go? Is by creator a more efficient method? what are some good beginner mods for me to try? I want  pacific north west vibe if anyone has suggestions for mods I can try. Would be happy to accept any dm if anyone wants to help thanksss.",New player asks how to manage/organize mods; wary of mod manager,,none,,,Phishing/social engineering: dm,Other / unclear,Not stated,,,,,,,,
+10/21/2026,r/ModTheSims4,"Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/ModTheSims4/comments/1xbzisn/,Sims 4 helpppp,"Im trying to download Sims 4 with all the expansions but its not like it used to be beforeeeee. It was a lot easier in the early 2000’s 😂   
+Anyone have know how to do it without getting 1,000 viruses?   
+The ones I’ve found want me to get a promo code from very sus websites lol ",Seeking free expansions; sites require promo codes from sus sites (note: piracy),Malware/virus scare,security,suspected,Malware/virus scare: viruses,,Other / unclear,Not stated,,,,,,,,
+9/11/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1wdq0fk/,"I started checking my mods in Sims 4 Studio, and I’m honestly shocked by how Bienchen (sims4me) updates her mods...","Hey everyone,
+
+I recently started learning how to check mods using Sims 4 Studio, and honestly? It has been a massive eye-opener. In fact, I was so shocked by this that I literally registered an account just to share it with you guys, because I haven't seen many people talk about the actual technical side of this, and it might explain why your game feels ""broken"" even if you don't get error pop-ups.
+
+I used to run literally hundreds of Bienchen’s mini-mods because the lists always mark them as ""Cleared"" or ""Updated"" almost instantly after every patch. But after digging into the package files and comparing them directly to the original EA game files, I was absolutely horrified.
+
+Here is the thing: her mods aren't throwing Last Exception (LE) errors, which is why most people think they are perfectly fine. Instead, the issue is that she is extremely sloppy with her updates. Since these are tuning overrides, she frequently leaves out massive chunks of new EA code from recent patches.
+
+Because her mods act as a blanket override, new game options and small quality-of-life changes simply do not show up in the game at all. I didn't even know these new options and subtle features existed until I opened the files, saw what was missing, and deleted her mods—as soon as I removed them, the missing options finally appeared in my game!
+
+She has actually admitted herself that she is missing several Expansion Packs, meaning any code related to those packs is completely absent from her mods. But what's worse is that even the mods for the EPs she does own are not updated properly.
+
+Under the hood, they are completely outdated, yet they get a green light on status lists just because they don't crash the game. If you use a ton of her tweaks and feel like you're missing out on new features, or if options aren't showing up without throwing explicit errors, I highly recommend checking the files yourself.
+
+Has anyone else noticed this after digging into her packages and comparing them to EA's code? I’m honestly exhausted trying to manually fix them all.","User inspecting mods in Sims 4 Studio, critiques creator update practices",Game errors/conflicts,technical,,"Game errors/conflicts: last exception, le, outdated, broken, errors, updated",Corrupted/broken save: missing,Other / unclear,Not stated,,,,,,,,
+8/29/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/comments/1w1zxnq/,My sims is broken and i CANNOT figure out the cause,"PLS HELP, i spent my entire day off trying to fix and nothing :(((
+
+So,  my game is modded, and has cc. However im very good at sorting cc, removing dupes and any corrupted/ out of date. I use BE, mccc and simsweep. 
+
+The issue: My game gets stuck on saving. And doesnt save. 
+
+So, when i first open the game, it saves sometimes. Sometimes the first save works, other times it doesnt. Or the 2nd or 3rd save (all done in short period/ tried long period too).
+
+Normally when it saves, I can see like, the background doing smth, saving. But when it does this, it doesnt do that, and obvs doesnt save. 
+
+I have tried waiting, repairing sims, clearing cache, Alt f4, clicking x on the toolbar popup, stopping certain situations to see it that was causing it.
+
+All my mods are up to date, even redownloaded and stuff. Cache cleared. Ive done trial and error removing different mods ect. Ive even got simsweep app, which tells me that my game wasnt corrupted in any way. All my cc is fine apparently. No flags on any mod/service. 
+
+Im not here trying to moan and whine. Im just someone who loves sims and loves her world and is frustrated from trying seemingly everything to figure out whats going wrong lol.
+
+Genuinely any advice or things to try id appreciate!","Game stuck saving; already uses BE, MCCC, SimSweep",Scam/fake download page; Corrupted/broken save; Game errors/conflicts,both,check by hand,"Scam/fake download page: popup | Corrupted/broken save: corrupted | Game errors/conflicts: broken, error",,Script mod,Not stated,,,,,,,,
+8/24/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1vwq5u7/,Jelly paws,"It seems like she (or he, not sure if it’s a girl or boy) comes out with a new mod everyday. Sometimes I get 2 or 3 post updates from Patreon from her with a new mod. They are interesting mods but I’m a little worried and have heard she put malware in her mods. Does anymore have an issues with her mods or am I thinking too much into her mod and I should go ahead and install them.",Worried about rumor that a prolific creator put malware in mods,Malware/virus scare,security,suspected,Malware/virus scare: malware,,Other / unclear,Patreon,,,,,,,,
+8/15/2026,r/ModTheSims4,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/ModTheSims4/comments/1vpgzav/,How do you get started as a cc creator?,"How many items, either cas or bb do you post when first getting started as a creator? Where do you upload you creations? The two main websites I know for cc are TSR, and mod the sims but I believe that website was getting a lot up people uploading viruses lately. If you upload new cc behind a 3 week paywall on Patreon, how many new items do you have there?","Creator perspective: where to upload CC, MTS viruses, paywall norms",Malware/virus scare,security,suspected,Malware/virus scare: viruses,,Other / unclear,Patreon; Mod hub,,,,,,,,
+8/1/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1vckd7r/,Help with the UI Cheats mod,"I’m having some issues with this mod and wanted to try updating it, but when i go to the creator’s Patreon, Google won’t let me download the file because it detects it as a potential virus.
+
+This is the first time I’ve had something like this happen with this mod. Is anyone else having the same issue? I’m a little worried about downloading it… 😅",Google blocks UI Cheats download from Patreon as potential virus,Malware/virus scare,security,suspected,Malware/virus scare: virus,,Script mod,Patreon,,,,,,,,
+7/23/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1v45o3o/,Update making computer freak out??,"Hey, this is my first post so excuse poor grammar! Normally I play TS4 offline as i simply prefer it that was but about 20 minutes ago I decided to go online as i wanted to use a household from the gallery, after updating my PC started giving me pop-ups saying ""Files corrupted repair in EA app"" and i do play with mods and CC but they have never given me any trouble until now. I also tried deleting the local thumb cache but that didnt work either, please let me know if any of you are experiencing this also and advice would be appriceatted",Corrupted files popups after update with mods,Scam/fake download page; Corrupted/broken save,both,suspected,Scam/fake download page: pop-ups | Corrupted/broken save: corrupted,Game errors/conflicts: update,Other / unclear,Not stated,,,,,,,,
+7/8/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/comments/1ur64y4/,Once I download certain cc my game won’t load without it,"This has happened to me before. I finally found the cc that was causing the problem, but i could not play certain saves without it so I lost them. And I have been careful not to download that same cc again, but it is now happening again. 
+
+I can’t really remove all cc, because the game just won’t load if I don’t have it and I’m not willing to lose another save. Has anyone else had this issue and found a solution like, before it edits your save so it can’t be opened without it? 
+
+I have mod guard, and I am very careful about where I download mods and cc from- so I don’t think malware is what has caused it. ",Saves unplayable without specific CC; lost saves,,none,,,,Other / unclear,Not stated,,,,,,,,
+7/5/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1unykvw/,Sims 4 is broken without being broke,"I download 2 mods; (my virus scanner said they were fine) and then my game broke. I deleted my mods and my game worked again, but when I put them back this time the mods weren’t the problem but that the document files weren’t finish loading. And even after I reinstalled it it was STILL loading.","Virus scanner said mods fine, but game broke after install",Malware/virus scare,security,check by hand,Malware/virus scare: virus,Game errors/conflicts: broken,Other / unclear,Not stated,,,,,,,,
+6/30/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1uk1bel/,Malware concerns,"I just came across a mod folder labeled TMEX-setting and it had .bat in the folder. I don't even remember seeing this before and it was downloaded a few months ago. I've since deleted and I did run a Windows offline scan, should I be concerned?",Found .bat file in mod folder labeled TMEX-setting,Malware/virus scare,security,suspected,Malware/virus scare: malware,,Other / unclear,Not stated,,,,,,,,
+6/24/2026,r/ModTheSims4,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/ModTheSims4/comments/1ue5hlj/,Is Mod The Sims website considered safe now?,"Hi there! I’m currently reinstalling, and updating as many mods as I’m able to at the moment. I have only a few mods left, and at the moment two mods I need to update are “Custom Food Interactions”, and “Custom Drinks Interactions” on ModTheSims website.
+
+Now, a few months ago l’ve seen a tweet alerting the sims community that Mod The Sims was infected with malware, that the original links to mods that were there were changed to viruses instead.
+
+Does anyone know if this has been fixed or should I wait? I pretty much updated most of my mods, but I don’t want to risk anything just in case. I want to play my Sims again after a few months break. ",Is MTS safe now after infection warning,Malware/virus scare; Game errors/conflicts,both,suspected,"Malware/virus scare: malware, viruses | Game errors/conflicts: update, updated",,Other / unclear,Mod hub,,,,,,,,
+5/14/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1tckrnu/,Color Sliders mod breaking game,"Hey! I know the update is pretty recent and I've also been seeing all the stuff with ThePancake1 and MizoreYukii, but it seems their color slider mod is breaking my game by making the event pop-up window unable to close.  
+I heavily depend on the slider mod, so if anyone knows a fix, i would actually be so thankful. If not, does anyone know any alternative way to have color sliders? 😭
+
+https://preview.redd.it/shxkeg4rj01h1.png?width=1877&format=png&auto=webp&s=5617cf476f04ce38c768bbf84a60ec322a3de029",Color slider mod breaks game after update; mentions ThePancake1/MizoreYukii situation,Scam/fake download page,security,suspected,Scam/fake download page: pop-up,Game errors/conflicts: update,Other / unclear,Not stated,,,,,,,,
+4/13/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1sk2z38/,So I haven't updated the Sims 4 since before the imaginary friend update. Is it a good time to finally update my game with the newest mods. Is that malware stuff still going on?,yeah I haven't touched the game since a few weeks before the Imaginary friend pack and I'm scared to update my mods cause I saw there was malware in one of the mods by a modder I use. I was wondering if it was safe to start to update my mods and begin playing again at some point,Afraid to update mods after creator malware incident,Malware/virus scare; Game errors/conflicts,both,suspected,"Malware/virus scare: malware | Game errors/conflicts: update, updated",,Other / unclear,Not stated,,,,,,,,
+4/12/2026,r/ModTheSims4,"Download help/how to, Malware/virus scare",https://www.reddit.com/r/ModTheSims4/comments/1sj0u73/,Mods in the sims,"where are the best places to find mods. whenever i try to search for any specifics, I get loads of links to places that aren't Sims mods or that is Pinterest. it's either that or some dodgy site that I'd rather not get any viruses or malware from.
+
+so, like what sites do you guys use.
+
+also, into more specifics, is there a way I could put screenshots into my game as like pictures on a wall for like posters. I really wana have posters from my other needy interests, but I can never seem to find them as mods. is that possible, or would I have to make my own mods.
+
+thank you for any help.",Where to find mods without dodgy sites/malware,Malware/virus scare,security,check by hand,Malware/virus scare: malware,,Other / unclear,Not stated,,,,,,,,
+3/29/2026,r/ModTheSims4,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/ModTheSims4/comments/1s6ibrt/,Safe Source for The Sound Tool download?,"Hi! I'd like to make a mod that modifies the music in Sims 4, but The Sound Tool by Denton47 is only found on ModTheSims, and last I heard, ModTheSims has been compromised and shouldn't be used right now. Does anyone know if Denton47 has another site on which he has uploaded The Sound Tool?
+
+Thanks!",Looking for safe alternate source for tool only on compromised MTS,Account/info theft,security,suspected,Account/info theft: compromised,,Other / unclear,Mod hub,,,,,,,,
+3/24/2026,r/ModTheSims4,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/ModTheSims4/comments/1s233sh/,How do I get Custom Food Interactions Mod?,"I was going to download Icemunmun's food package, but then checked and said I needed the Custom Food and Drinks interactions mod. However the only site in which it's hosted is MTS, which I'm aware has been flagged for malware, so how do I go about getting both of these mods?",Mod only hosted on MTS after malware flag; how to get it safely,Malware/virus scare,security,suspected,"Malware/virus scare: malware, flagged",,Other / unclear,Not stated,,,,,,,,
+3/22/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1s0e9a8/,Why is my antivirus flagging cc that are in a zip as malicious??,This has never happened before so im a little confused since I only download mods that I know I can trust (off patreon mostly) can anyone explain this?,Antivirus flags zipped CC from Patreon,Malware/virus scare,security,suspected,Malware/virus scare: antivirus,,Other / unclear,Patreon,,,,,,,,
+3/11/2026,r/ModTheSims4,"Download help/how to, Malware/virus scare",https://www.reddit.com/r/ModTheSims4/comments/1rr3jl1/,Sims mods help,Any other site like curseforge that are safe to use for mods? I don't want any malware on my new gaming PC and I've looked up the other sites that others recommended but I don't trust them. Any sites that creaters use that are free?  I want to mod the eff out of sims because its boring without mods. Any suggestions?  Or is curseforge the only good free mod site?,Asks for safe mod sites besides CurseForge,,none,,,Phishing/social engineering: free,Other / unclear,Mod hub,,,,,,,,
+2/9/2026,r/ModTheSims4,Scam/fake download page,https://www.reddit.com/r/ModTheSims4/comments/1r0iezo/,Weird redirect,So I am going through and updating all my mods finally since the newest update and when I was downloading MCCC It took me to to download it off of MediaFire (which is abnormal in of itself Because it's always just downloaded from the website itself. Not a secondary website) and then MCCC took me to a bedding website. Is this just me or is this something everybody else is dealing with,MCCC download redirected through MediaFire to unrelated site,Scam/fake download page,security,suspected,Scam/fake download page: redirect,Game errors/conflicts: update,Script mod,Other file host,,,,,,,,
+2/5/2026,r/ModTheSims4,Scam/fake download page,https://www.reddit.com/r/ModTheSims4/comments/1qwywqx/,weird website from mccc,"went to download the updated mccc after the latest patch, but clicking download redirected me to this website that it never did before. didn’t install from it but curious if anyone else has encountered this. looks a bit dodgy so i’m being cautious. thanks!",MCCC download redirected to unfamiliar site,Scam/fake download page; Game errors/conflicts,both,check by hand,"Scam/fake download page: redirected | Game errors/conflicts: after the latest patch, updated",,Script mod,Not stated,,,,,,,,
+11/12/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1gpqhpx/,Safe place to download cc,I am back from my yearly break of playing the sims4 and now want to redownload a bunch of mods again. I stopped playing and such around the time all those viruses were going around from cursed forge. Is it safe now? Are there any other websites that are fine to download from?,Returning player: is CurseForge safe now; other safe sites?,Malware/virus scare,security,suspected,Malware/virus scare: viruses,,Other / unclear,Not stated,,,,,,,,
+11/12/2024,r/sims4cc,"Malware/virus scare, Account/info theft",https://www.reddit.com/r/sims4cc/comments/1gpwmdv/,Modding Safely / Malware / Modguard,"I noticed there’s no pinned discussion about this here, so in case anyone didn’t know, the Sims modding community has had some pretty rough instances of modders’ accounts being hacked to upload viruses in place of their CC. This has happened on a few different popular modding sites. And I’m not just talking about adware, these viruses can steal your info and really mess things up for you!
+
+But don’t freak out, there are some smart people on this issue and taking precautions.
+
+I’m in a Discord called Sims After Dark (link below):
+https://discord.gg/simsafterdark
+And these guys have been AMAZING at catching and reporting these instances. I have @everyone notifications on so I’m alerted immediately if the community finds a malicious mod!
+
+They suggest using MODGUARD by TwistedMexi. Here is what she says on the download page, with the link immediately after:
+
+“Some of you may be aware of the recent events in the community, involving someone accessing modder accounts and ""updating"" their mod files with a virus downloader.
+If you aren't aware, then The Sims After Dark discord has quite a few announcements covering what has been breached so far, what the virus does, and what steps you need to take if you were affected. Here is a page from their site covering the topic. I'd recommend taking a look
+It's become clear this isn't going to be a one-and-done thing, as more breaches have occurred over the last week. In response, I have created a new mod to counter it.
+ModGuard blocks common virus vectors, tracks the mod file that attempted to download it, notifies you, and shares the mod name with our team so compromised modder accounts can be notified as soon as possible.
+This will help not just protect you, but to protect everyone else by minimizing the time compromised downloads remain available.Think of ModGuard as a safety net:
+I'd like to emphasize that all hacks and anti-hack tools are a cat-and-mouse game. There is always potential for a workaround to pop up. As such, please continue to use discretion when downloading mods, especially from small or unknown modders. In addition, be skeptical of any mods that suddenly ""update"" without providing detailed notes on what the update is for. Be on the lookout for imposter accounts as well. If the name is mispelled, or the account is new, for a modder you know has been around for a long time, it's likely an imposter.
+This is going straight to public release of course, as the community needs a tool quick to prevent the spread of this and other viruses.It also goes without saying:Make sure you only ever download ModGuard from my official platforms - Patreon, TwistedMexi.com, TwistedMexi on CurseForge.”
+https://www.patreon.com/posts/98126153
+
+As far as personal advice goes- try to do your CC shopping directly from the modder’s Patreon/website. Get Malwarebytes and scan everything you download. 
+
+If you have questions, I recommend joining the Discord and reading any links the mods have posted. I can’t answer much be","PSA on modding safely, hacked creator accounts, ModGuard",Malware/virus scare; Account/info theft,security,check by hand,"Malware/virus scare: adware, malware, malwarebytes, virus, viruses | Account/info theft: compromised, hacked",Game errors/conflicts: update,Other / unclear,Patreon; Discord; Mod hub,discord.gg; patreon.com,,,,,,,
+11/10/2024,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1gnu4ch/,"does anyone have the raidne set by cuupid-corp? it redirects me to the ""modcollective.gg"" site, which i do not feel comfortable having to make an account for a website i bearly recognize, and she's never reuploaded the shirt herself. would anyone have it on google drive or SFS? thanks!",[Image/link post],Download redirects to unfamiliar site requiring account,Scam/fake download page,security,suspected,Scam/fake download page: redirects,,Other / unclear,Not stated,,,,,,,,
+11/10/2024,r/sims4cc,Game errors/conflicts,https://www.reddit.com/r/sims4cc/comments/1go7h8j/,Find broken mods,"So I haven't played The Sims 4 for about 7 months, so I have a bunch of mods/CC that isn't updated.  
+I do have Tmex Better Exceptions and I've scanned numerous times to see what's incompatible with the game, but I can't seem to find anything. The UI is also affected where the pop-up's text isn't showing (I scanned for UI Mods, and I removed all of them to see if it got fixed in-game but nope - no luck.) 
+
+Another issue I'm having is fences not having any textures, they're just gradient color red/blue with a questionmark in it. I'm sure some mod is the cause of this...
+
+Has there been any update recently where CC and mods are affected and us mod users are still waiting for updates?   
+I will continue my hunt for the broken CC/mods but I have 8000 files to go through (welp), so I'm really hoping someone can help me to save me some time!   
+Thanks in advance! x","Can't find broken mods after 7-month break, even with Better Exceptions",Scam/fake download page; Game errors/conflicts,both,suspected,"Scam/fake download page: pop-up | Game errors/conflicts: broken, update",,Other / unclear,Not stated,,,,,,,,
+10/7/2024,r/sims4cc,Account/info theft,https://www.reddit.com/r/sims4cc/comments/1fxwzs5/,Platinumluxesims,"What’s going _on_ with them? It’s been months since the whole password protection thing. And I finally looked into it, and they apparently want a bunch of information just to download their free stuff? To check my account? My email? Is this crazy to anyone else? Has anyone taken the dive to do it? And does anyone know the damn password or is that a red herring????",Creator site requires email/account info just to download free CC,,none,,,Account/info theft: password | Phishing/social engineering: free,Other / unclear,Not stated,,,,,,,,
+9/20/2024,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1flkl0q/,Did i download a virus?,"So I just downloaded from this website which I actually don't know, through a link on a cc creator's website. Yes i know it's stupid but i did it and immediately regretted after.. The website just looks kinda sketchy but what really put me off is the file name.. has anyone else ever downloaded here? The creator is Charonlee Sims by the way. I am currently using a vpn also, not sure if that offers any protection. 
+
+https://preview.redd.it/a4sk9ebjo0qd1.png?width=1862&format=png&auto=webp&s=15114b49bd3bf9cd61212c94f7e5d000bf84001a
+
+https://preview.redd.it/v9za2w66o0qd1.png?width=417&format=png&auto=webp&s=ce79e63c5e7d92a18ebb3cd6e801ef5bc8b12f2a
+
+",Downloaded from unknown site via creator link; sketchy filename,Malware/virus scare,security,suspected,Malware/virus scare: virus,Scam/fake download page: sketchy,Other / unclear,Not stated,,,,,,,,
+8/31/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1f5ver9/,What virus protection do you use to download your mods and cc? Even if it's a secure website I still want some type of antivirus program.,Since there was a massive attack with spreading viruses through mods several months ago you have to wonder when will it happen again? Even if I am visiting a secure website I like to be protected. I had trials for Malaware Bytes but that expired and now have another trial for bitdefender. I was also using this other one but that also expired. I use my husband's laptop because its better for gaming but my personal laptops have virus protection on it thanks to my uncle. I know he won't cover another laptop so I'm trying to determine if I should get Malaware Bytes or Bitdefender or something else for my husband's since I'm constantly finding and downloading CC or mods.,Which antivirus do people use for mods?,Malware/virus scare,security,suspected,"Malware/virus scare: antivirus, virus, viruses",,Other / unclear,Not stated,,,,,,,,
+8/20/2024,r/sims4cc,Game errors/conflicts,https://www.reddit.com/r/sims4cc/comments/1ewi0zh/,"Running into issues with ""corrupted files"" need advice","I added a whole lot of new files today. So far it has flagged the top 10 or so of the new items as being ""corrupted"" - I deleted the top bunch because I thought maybe it was one themed group of items, but its still happening further along (though still the same creator as the deleted files and lots of stuff that I was really looking forward to using and don't want to just give up on).
+
+I then followed the advice in the corrupted file pop-up of repairing the game.  Didn't help.
+
+The next suggestion from the game itself is to reinstall but before I do that a pop-up comes up saying I'd lose any add-ons and bonuses in the game installation directory and I'm at a loss for what that means so I haven't been willing to go ahead with it.  Is that just items that get unlocked through gameplay? Or will it somehow cause issues with all of the additional content I've purchased? I moved all my mods out to a temp folder but I'm just making sure this is my next option.
+
+I haven't gotten to any other creators' files yet, so far its just hit stuff by SimPlistic but I don't know if its related to their files specifically or if its having a fit all around and will do the same to later files also.  (f it matters my mods folder probably doubled today (I was having a field day with rugs, wallpaper, and curtains oop) went from something around 300 to 600+ files, not sure if that might have some impact on what is happening.
+
+Anyway, if anyone can guide me in this I'd really appreciate it, I'm not very experienced with the whole cc thing and don't know what to do to troubleshoot this.",Many new files from one creator flagged as corrupted,Scam/fake download page; Corrupted/broken save,both,suspected,Scam/fake download page: pop-up | Corrupted/broken save: corrupted,Malware/virus scare: flagged,Other / unclear,Not stated,,,,,,,,
+8/3/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1eirznn/,Where can I download cc and mods without getting a virus?,"I'm having trouble finding places to download any cc and mods without the chance of getting a virus. Yes, I know there will always be that risk with this kind of stuff, but some popular websites have been having really big issues with viruses currently, and I don't feel like ruining my computer.",Where to download CC/mods without viruses,Malware/virus scare,security,suspected,"Malware/virus scare: virus, viruses",,Other / unclear,Not stated,,,,,,,,
+7/8/2024,r/ModTheSims4,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/ModTheSims4/comments/1dyh40i/,Ive hear thhe situation with thw malware,Is tsr okay?,Asks if TSR is safe after malware news,Malware/virus scare,security,suspected,Malware/virus scare: malware,,Other / unclear,Not stated,,,,,,,,
+6/23/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1dmyme1/,Safe Places to Download CC,"Hi all,
+
+I used to be very into CC until I downloaded something that fried my SSD card and I’ve been scared to download ever since. :(  
+
+I’ve been wanting to get back into CC shopping, but I’m looking for some safe/reliable sites that won’t cause me to accidentally download a virus. I prefer maxis match looking CC, and I already have Curseforge. 
+
+Any suggestions would be appreciated!",Past download damaged SSD; asks for safe CC sites,Malware/virus scare,security,suspected,Malware/virus scare: virus,,Other / unclear,Mod hub,,,,,,,,
+5/27/2024,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1d1g3yb/,I think I may have downloaded a virus what should I do? delete it?,[Image/link post],Image post; user thinks they downloaded a virus,Malware/virus scare,security,suspected,Malware/virus scare: virus,,Other / unclear,Not stated,,,,,,,,
+5/19/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1cvxehy/,"CC, May Someone Inform Me?","How trustworthy are CC and mod files? How do you know beforehand if a .package/mod or whatnot isn't malicious? What can I do to make sure nothing bad happens as humanly possible?
+
+Just need someone to educate me, I overthink a lot and the way for me to combat that is learning. Years ago when I was 12 I'd just download anything from anywhere and to my knowledge nothing bad happened, but I'd like to be more cautious at 20 since I can't afford (financially and peace wise) to lose my computer. ",How to tell beforehand whether a .package is malicious,,none,,,,Other / unclear,Not stated,,,,,,,,
+4/23/2024,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1cb77y9/,Yoga Posters,"Does anyone happen to have these two posters? The creator only has a download link that leads you to AdFly and I cannot navigate that terrible website so if someone is actually able to pull these posters from that shady page or happens to have them already I'd be forever grateful.
+
+[https:\/\/martinessimblr.tumblr.com\/post\/124338649874\/i-applied-my-yoga-mat-textures-to-the-two-new\/amp](https://preview.redd.it/x6lzp2x0x8wc1.png?width=1237&format=png&auto=webp&s=9cda25148eadf8c2b9b1c1d20a1802d9b618ee6e)",Creator's only download link is via shady AdFly page,Scam/fake download page,security,suspected,"Scam/fake download page: adfly, shady",,Other / unclear,Tumblr,,,,,,,,
+3/30/2024,r/ModTheSims4,"Malware/virus scare, Account/info theft",https://www.reddit.com/r/ModTheSims4/comments/1brqek5/,[question] about the current state of CC and mods,"I dunno if this is the right place to ask, but I didn't know where else to get the info.
+
+I'm about to re-install TS4, and like a month ago or so I heard there was an issue where some cc creators got hacked, and their mods where replaced with malicious content.  Has this issue been solved, or are there still CC with this problem?",Returning player asking if hacked-creator malicious CC issue is resolved,Account/info theft,security,suspected,Account/info theft: hacked,,Other / unclear,Not stated,,,,,,,,
+3/28/2024,r/sims4cc,Account/info theft,https://www.reddit.com/r/sims4cc/comments/1bpimqs/,Tray Importer,"Hello, it's been a while since I played the sims so I have a couple of questions.
+
+I remembered the tray importer was useful to find broken cc and I saw that it was hacked last year. I searched on google for updates, but I haven't seen many posts about it after the hack. Are people using it nowadays with no issues?
+
+My second question is if the tray importer also works with individual rooms. More specifically, I want to have a back up folder with all the cc I used to build a room saved in my gallery.",Is Sims 4 Tray Importer safe after it was hacked?,Account/info theft,security,suspected,Account/info theft: hacked,Game errors/conflicts: broken,Other / unclear,Not stated,,,,,,,,
+3/20/2024,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1bj46vi/,can anyone download this? (help),"Soooo I've been trying to download this cc of the outfits from the 34+35 collab video but I keep getting sent to a random website that doesn't work at all (linkvertise)
+
+https://arminforevercc.wixsite.com/website/pagina-del-producto/34-35-remix-collection
+
+Can anyone download it or send me another link that works? Pls ",Download sends to broken Linkvertise page,Scam/fake download page,security,suspected,"Scam/fake download page: linkvertise, sent to a random website",,CC: CAS,Creator site (possible),arminforevercc.wixsite.com,,,,,,,
+3/17/2024,r/sims4cc,"Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/sims4cc/comments/1bgnofa/,Sims Galaxy downloads?,"I just happened upon “Sims Galaxy” on vk.com through a pinterest post. They’ve got TONS of paywalled cc. But I’ve never heard of them. I googled the site. Apparently it’s like Russia’s version of Facebook? 
+
+Does anyone download from here? Are they good files? The recent malware shit has me paranoid now… ",Is reupload site on vk.com with paywalled CC trustworthy?,Malware/virus scare,security,suspected,Malware/virus scare: malware,,Other / unclear,Not stated,,,,,,,,
+3/14/2024,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1bepiue/,NewSea CC website secure?,"Today i revisited a site I downloaded a piece of cc from. It's newseasims.com. I don't remember it doing this last time, but I tried download more cc and chrome blocked the download. is the site safe? I am working a cc haul and need to know if i should link the site or not. Don't want to send my subs to a site that can potentially give their pc a virus.",Chrome blocks downloads from a CC site; is it safe to link in haul?,Malware/virus scare,security,suspected,Malware/virus scare: virus,,Other / unclear,Not stated,,,,,,,,
+3/3/2024,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1b5h7im/,Does anyone know where I can find the proper dl to peggy hsir 532??,"I keep seeing this hairstyle on videos (note, very old videos) and Id love to be able to use it in my own game. But everytime I think ive found the download, it takes me to the jennisims website which then takes me to a website similar to adfly, which is absolutely filled with ads and never takes me to the actual download no matter what I attempt to click. Does anyone by chance have a link to a real download even through an archive or anything, as long as it's not behind a paywall",Download chain leads to adfly-like site full of ads,Scam/fake download page,security,suspected,"Scam/fake download page: adfly, ads",,CC: CAS,Not stated,,,,,,,,
+3/1/2024,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1b3k96u/,😩🫣RECENT MALWARE THREAT!,"😢🥺I may be late to this but I ran across a post today while on Tumblr about this while downloading CC. Now I have not run my game since I have to update it or put stuff in my mods folder unless things were updated from CURFORGE( Which I will stop after today. What should I do? Should I delete the thing from today that I downloaded? I'm thankful that I saw the post before running the game but this has me paranoid 😞😨🫣.
+
+*****Also I know when downloading CC on Curforge it automatically downloads into your mods folder.…. What should I do about that?",Learned of malware threat on Tumblr; asks what to do,Malware/virus scare; Game errors/conflicts,both,suspected,"Malware/virus scare: malware | Game errors/conflicts: update, updated",,Other / unclear,Tumblr,,,,,,,,
+2/24/2024,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1az84j5/,Does anyone have this set without adfly?,"https://www.patreon.com/posts/fanpack-iu-46093063?utm_medium=social&utm_source=pinterest&utm_campaign=postshare
+
+
+I Have adblock but I'm kinda scared to click on the link anyway..",Scared to click adfly download link even with adblock,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+2/22/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1axfdhs/,is it safe to download from ginkosims and wings on tsr?,i want these hairs from there but i'm afraid of viruses,Is it safe to download specific creators from TSR?,Malware/virus scare,security,suspected,Malware/virus scare: viruses,,CC: CAS,Not stated,,,,,,,,
+2/14/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1aqkkxv/,What’s the score with downloading mods atm after the CurseForge / TSR / ModTheSims situation?,"Have been wanting to download some mods and CC for a while but held off because I was worried about malware / viruses, then this situation rolled around… :’)
+
+Have there been any updates on the situation? Is it safe to download mods from those sites or is there still an on-going situation / risk to it?",Is it safe to download after CurseForge/TSR/MTS incident?,Malware/virus scare,security,suspected,"Malware/virus scare: malware, viruses",,Other / unclear,Mod hub,,,,,,,,
+2/8/2024,r/sims4cc,"Malware/virus scare, Account/info theft",https://www.reddit.com/r/sims4cc/comments/1am0dyf/,Another mod warning,"@everyone 
+
+# <a:modwarning:859496615403454525> WARNING: DO NOT DOWNLOAD ""Weather and Forecast Cheat Menu"" FROM THESIMSRESOURCE <a:modwarning:859496615403454525> 
+
+We noticed a suspicious rash of errors coming from this mod today after it was recently updated, and upon investigation we were shocked to learn **it contained the same malware as the other mods** in this recent trend. Worse yet, this mod was uploaded to MSQSIMS' official TSR page, not through an impostor account or alternative website. We believe that MSQSIMS has been hacked, and we have no idea how far-reaching this goes. At this point, we cannot recommend downloading any mods from TSR. 
+
+We are calling a moratorium on all mod update news, from all websites. When updates return, we will only post things we have personally inspected, at least for the short-term future.
+
+We are reaching out to relevant parties again, but until everything is cleared up, **__DO NOT DOWNLOAD__** this mod. If you downloaded this mod __after roughly February 5th__, and have already installed/update it and run the game with it, **__DELETE IT__** immediately, and **__RUN A VIRUS SCAN__** on your computer.",Feb 2024 PSA: malicious update to mod on TSR,Malware/virus scare; Account/info theft; Game errors/conflicts,both,check by hand,"Malware/virus scare: malware, virus | Account/info theft: hacked | Game errors/conflicts: errors, update, updated",,Other / unclear,Mod hub,,,,,,,,
+2/7/2024,r/sims4cc,"Malware/virus scare, Account/info theft",https://www.reddit.com/r/sims4cc/comments/1aks58u/,Warning: Malicious mod on curseforge,"Not everyone is on discord so I figured I'd share.
+
+
+
+@everyone 
+
+# <a:modwarning:859496615403454525> WARNING: DO NOT DOWNLOAD ""Social Events - Unlimited Time"" FROM CURSEFORGE <a:modwarning:859496615403454525> 
+
+A mod was uploaded to CurseForge called ""Social Events - Unlimited Time"" by an account simply called MySims4. Similar to the previous situation, this upload was suspicious. The account posting it was brand new, and its cover art used a stolen image from a MSQSIMS mod on TSR. The zip file actually contains **the exact same files as the Cult Mod impostor from before**, which means **__the script file attempts to download and run an unknown exe file silently without the user knowing__**. At this point, this is obviously being done with malicious intent.
+
+We are reaching out to relevant parties again, but until everything is cleared up, **__DO NOT DOWNLOAD__** this mod. If you have already installed this mod and run the game with it, **__DELETE IT__** immediately, and **__RUN A VIRUS SCAN__** on your computer. If you used the CurseForge app to install to the mod, you should also **__DELETE IT FROM YOUR MY MODS TAB IN THE APP__** from it to prevent it being downloaded again automatically before this is removed from their site. 
+
+As this is becoming a pattern, if you notice any mod uploaded in the near future that contains files called `Social Events.package` and `Social Events.ts4script`, delete it immediately, report the upload, and warn others.",Feb 2024 PSA: malicious mod on CurseForge,Malware/virus scare,security,check by hand,Malware/virus scare: virus,Account/info theft: stolen,Script mod,Discord; Mod hub,,,,,,,,
+1/31/2024,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1afv2ej/,is sacrificial mods safe?,"ok, so i have a friend who is afraid to download the extreme violence mod. and i totally understand why, he got a new pc and the mod website is pretty weird. but it doesnt seem like a virus because i never saw anyone complaining about it and my antivirus and virustotal doesn't flag anything. so i would like to know if it's legit and safe, thanks.",Is Sacrificial's site safe; user checked with antivirus and VirusTotal,Malware/virus scare,security,suspected,"Malware/virus scare: antivirus, virus",,Other / unclear,Not stated,,,,,,,,
+1/10/2024,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/193ehru/,Can anybody please share the Lot51 core library file with me?,"So my antivirus doesn't let me download the core library, does anyone have it and could share? I'd be so grateful, thank you to anybody who'll help",Antivirus blocks Lot51 Core Library; asks strangers to share file,Malware/virus scare,security,suspected,Malware/virus scare: antivirus,,Other / unclear,Not stated,,,,,,,,
+11/8/2026,r/sims4cc,"Scam/fake download page, Phishing/social engineering",https://www.reddit.com/r/sims4cc/comments/1xr1lay/,is modcollective a scam smh,"hi, ive noticed this new website called [modcollective.com](http://modcollective.com) to get cc. the first time i used it i noticed that it had a feature where you could make an account and only get a certain amount of free downloads every day, which is fine but that made me click off ngl. I encountered it again with a set of cc i really wanted, created an account and i was able to download the sets i needed. today, i encountered it again and now it says my device has used up all my downloads and i need to buy more. ive paid for cc before, but i don't wanna pay for this website unfortunaely. anyway i can bypass this stupid feature 💔 or something if not ill let it go bc i geunienly don't want to subscribe for a monthly subscription for cc lol",Is new CC site modcollective a scam? Account and download limits,Scam/fake download page,security,check by hand,Scam/fake download page: scam,Phishing/social engineering: free,Other / unclear,Not stated,modcollective.com,,,,,,,
+10/30/2026,r/sims4cc,"Corrupted/broken save, Malware/virus scare",https://www.reddit.com/r/sims4cc/comments/1xjv3p2/,Possible mod corruption,"Apologies if posts like these are not allowed, figured I'd share a word of warning. 
+
+I just downloaded some new, updated mods from CurseForge, put them in Mods folder and tried to boot up the game. I got a pop up message saying there's a corrupted file, the one pictured, and that I should remove it or try fixing the game by using the repair function on Origin/EA app. 
+
+This was my first time trying this mod and it seems new, with just over 400 downloads. No shade or hate to the creator! Just figured I'd give out a warning, with how many mod issues and dubious AI/virus things I've seen in the community in recent times.
+
+Cheers! ",Warning: updated CurseForge mods triggered corruption pop-up,Malware/virus scare; Corrupted/broken save,both,check by hand,"Malware/virus scare: virus | Corrupted/broken save: corrupted, corruption",Game errors/conflicts: updated,Other / unclear,Mod hub,,,,,,,,
+10/29/2026,r/sims4cc,Corrupted/broken save,https://www.reddit.com/r/sims4cc/comments/1xick7u/,Playing without internet access?,"So my wife started playing after years, and found a ton of mods on Pinterest. However, as soon as the first update was released since she started playing, that basically killed her save and she lost all the work. 
+
+I’m not in the gaming world for over a decade now so excuse me if this is a ridiculous question but is there any chance to have Sims4 working without Steam, EA App and Internet access, so I could freeze the game version for her and ensure all Pinterest mods will not kill her save in the future? 
+
+Just like old times, simple game installed locally and an .exe to open it - no clients, no supporting apps, no libraries, just the game and mods. ",Game update with Pinterest mods killed wife's save,Malware/virus scare,security,suspected,Malware/virus scare: .exe,Game errors/conflicts: update,Other / unclear,Not stated,,,,,,,,
+10/20/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/comments/1xaz6e7/,"mama llama royalty legends world/ after mods removed , corrupted file ?","can anyone help me resolve this, ive already used sim sweep , mod manager , better exceptions etc . its only this world that has issues . the game runs fine and the sims are fine aswell . only the lots are unaccessible. you cannot even edit them without an unknown error message  appearing . i did troubleshoot multiple times myself before asking for help","World still corrupted after removing mods; tried SimSweep, BE",Corrupted/broken save,technical,,Corrupted/broken save: corrupted,,Other / unclear,Not stated,,,,,,,,
+7/21/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/comments/1v2k5ui/,Corrupted Save File?,"I've been playing in this save for years, and it already had minor issues. Yesterday when I loaded into the household the game crashed. I tried everything, deleted mods, repaired the game, uninstalled/reinsatalled, logged out of OneDrive, and it still won't load, but a new household runs no issue. Should I just accept my loss? Is the file corrupted beyond repair? I have some of the crash report files and such if that helps, would appreciate ANY insight <3",Years-old modded save crashes on household load,Corrupted/broken save; Game errors/conflicts,technical,,"Corrupted/broken save: corrupted | Game errors/conflicts: crash, crashed",,Other / unclear,Not stated,,,,,,,,
+6/29/2026,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1uigsjt/,Mods Are Not .exe/.bat Files. Ever.,[Image/link post],PSA: mods are never .exe/.bat files,,none,,,,Other / unclear,Not stated,,,,,,,,
+4/19/2026,r/ModTheSims4,"Corrupted/broken save, Game errors/conflicts",https://www.reddit.com/r/ModTheSims4/comments/1spoyhz/,Sims 4 CC suddenly showing “corrupted file” after update even though files are fine?,"I updated The Sims 4 yesterday and forgot to remove my Mods folder before launching. After that, my game wouldn’t open and kept saying random files were corrupted.
+
+I tried:
+
+\- deleting all mods and re-downloading updated versions
+
+\- deleting cache files
+
+\- deleting GameVersion.txt and Options.ini
+
+\- repairing the game from the ea app
+
+The game works completely fine without the Mods folder, but the moment I add *any* CC (even just a small folder with hairs), I get a “corrupted file” error.
+
+What’s really weird:
+
+If I take the *exact file it says is corrupted* and put ONLY that file in Mods → the game opens fine.
+
+I even created a brand new Sims 4 folder from scratch, same issue still happens.
+
+I tested CC from TwistedCat, NorthernSiberiaWinds, JohnnySims, Arethabee, and Simstrouble in small batches (like eyebrows first, then hairs, etc.). Everything worked perfectly. I had around \~300 CC files and the game was running fine.
+
+Then I moved on to aharris00britney hairs. As soon as I added that folder, the game said one of the hair files was corrupted. I removed the entire aharris folder and tried again, and suddenly a Simstrouble hair file was now “corrupted” instead (even though it was working perfectly before).
+
+At this point I’m really confused because:
+
+\- files work individually
+
+\- files worked in other combinations before
+
+\- restarting my PC didn’t change anything
+
+\- corruption error seems to “move” between files
+
+I’m starting to feel like the files themselves aren’t actually corrupted, but something in the game is misreading them or breaking after adding new CC.
+
+Has anyone seen this happen before? I’m completely stuck.
+
+Also im not super techy, so ill add this too: 
+
+Game version: 1.123.66.1230
+
+Platform: Mac 2022 M2",Updated game without removing Mods folder; CC now shows 'corrupted file',Corrupted/broken save; Game errors/conflicts,technical,,"Corrupted/broken save: corrupted, corruption | Game errors/conflicts: error, update, updated",,CC: CAS,Not stated,,,,,,,,
+2/16/2026,r/sims4cc,"Download help/how to, Malware/virus scare, Game errors/conflicts",https://www.reddit.com/r/sims4cc/comments/1r6kyf5/,Modding the Sims: A Guide for Beginners!,"\*\*A Guide to Mod Sorting\*\*
+
+(I hope this is allowed and that I used the right flair! I just see these questions a lot and hoped to help.)
+
+Modding the Sims is a fun way to expand on or modify your playstyle, but it can be an overwhelming process for many beginners! I've been modding most of my games since I got my first PC, and while I am no expert, I thought I could give some advice that would be useful for anyone looking to get into modding. I hope this guide is straightforward and answers some of the questions people can have when getting started!
+
+
+
+\*\*What is a 'mod'? What is 'custom content'?\*\* 
+
+
+
+'Mods' are files which end in .package or .script which add content into the game or modify elements of the game's code directly. 'Package' files typically add items like clothing, hairs, and furniture. 'Script' files modify parts of the game itself, or tell a package file what to do. 
+
+
+
+Custom Content usually refers to non-gameplay changes- things like hair, clothing, etc. These typically don't have script files. Functionally, though, mods and CC go in the same place. 
+
+
+
+For example, in this \[Spinning Wheel\](https://www.patreon.com/posts/mod-functional-100096864) mod, the 'package' file would be the spinning wheel itself, while the script file would tell this object what to do. There is more to it than that, but that's all you really need to know for the basics. This file, like many you will download, is 'zipped'- it must be opened and the files taken out/placed somewhere else to work. 
+
+
+
+File sorting and organizing your mods is important in the Sims- most importantly, where 'script' files are placed. These can be placed in the 'Mods' folder directly, or ONE folder deep, but NO FURTHER. For example, you could put a mod in the directory The Sims 4/Mods/Creator Name, but you could NOT do The Sims 4/Mods/Creator Name/Creator Mod, as the script file would not be read. Package files, on the other hand, can be safely placed up to FIVE folders deep. 
+
+
+
+\*\*So, how do we know this?\*\* You may see a file in your Mods folder called 'resource.cfg'. This file is important, and is generated by the game itself, so do not mistake it for a mod- this file should ALWAYS be in your Mods folder. If we open this file in notepad, we can see the following: 
+
+
+
+""Priority 500
+
+PackedFile \*.package
+
+PackedFile \*/\*.package
+
+PackedFile \*/\*/\*.package
+
+PackedFile \*/\*/\*/\*.package
+
+PackedFile \*/\*/\*/\*/\*.package
+
+PackedFile \*/\*/\*/\*/\*/\*.package""
+
+
+
+What this is telling us is just that each '\*' is one level of folders deeper that the game can look into for mods. We CAN edit this to look deeper by adding another line with an extra \*, but let's hold off on that for now. We'll come back to this later. Don't worry about this file too much- just make sure you have it.
+
+
+
+Now that we know the limitations of the Mods folder, we can start adding things! But with so much available, and so many sites to use, where do we start? Many sites exist, but these","Community beginner guide to modding, incl. safety",,none,,,,CC: CAS; CC: Build/Buy,Patreon,patreon.com,,,,,,,
+12/21/2025,r/sims4cc,Corrupted/broken save,https://www.reddit.com/r/sims4cc/comments/1ps4ula/,There is no way to fix a corrupt save is there?,Yes done everything. Removed all cc and mods. Deleted caches. Reinstalled sims and repaired. Any new  game it loads. My save won't go past the loading screen. This has kept happening. It's done for isn't it 😏,Save won't load even after removing all CC/mods and repairing,Corrupted/broken save,technical,,Corrupted/broken save: corrupt,,Other / unclear,Not stated,,,,,,,,
+11/30/2025,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1pau14k/,Is this a safe website?,"It’s sims4.net, I’ve been trying to find this hair on patreon but it’s been deleted and this is the only download I’ve found but I want to be safe and not get a virus",Is this unfamiliar CC site safe? Only source for deleted hair,,none,,,,CC: CAS,Patreon,,,,,,,,
+11/18/2025,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1p028in/,Just got a d*mn trojan while downloading cc 💀😔,"Thank god kaspersky saved my ahh..
+And the fact that I only download from TSR and Peatron bc they are the ""safest"", be careful guys.
+
+Have this ever happen to any of you? And how did you handle it? 
+
+Honestly traumatizing, and idk I feel like I might need to reset my pc.",Antivirus caught trojan while downloading CC from 'safe' sites,Malware/virus scare,security,suspected,Malware/virus scare: trojan,,Other / unclear,Mod hub,,,,,,,,
+7/21/2025,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1m544ha/,viruses,has anyone on here ever actually gotten a virus from downloading cc? also was it bc you clicked on a ad or was it from the actual download link or something else? just curious,Has anyone really gotten a virus from CC - from ads or real link?,Malware/virus scare,security,suspected,"Malware/virus scare: virus, viruses",Scam/fake download page: ad,Other / unclear,Not stated,,,,,,,,
+7/9/2025,r/sims4cc,Malware/virus scare,https://www.reddit.com/r/sims4cc/comments/1lvl18z/,Caution,"I honestly am a CC hoarder, so when downloading some new to me CC from the AxA stuff (aharris x ayoshi) I stumbled across a bit of a Trojan disguising itself as fake malware. I honestly do not know which download of the stuff I grabbed did it but luckily it is quarantined to be deleted by Windows Security. Just a bit of caution to AxA fans.",Trojan disguised as fake malware found in CC batch,Malware/virus scare,security,check by hand,"Malware/virus scare: malware, trojan, quarantined",Scam/fake download page: fake,Other / unclear,Not stated,,,,,,,,
+6/24/2025,r/sims4cc,Scam/fake download page,https://www.reddit.com/r/sims4cc/comments/1lja2hj/,a talk about kaieiress (and ai generated content in general),"most of these are of kaieiress, but the last one is just an example of one of the people actually creating mods that use ai 
+
+ok so if you didn’t know kaieress is a scammer using ai generated photos for her “mods” that were supposed to come out for playtesting 3 months ago but is now being pushed back (not for the first time) until august. she has 53 paid members who are not getting the content they paid for, and only recently released ANYTHING with a download (not any of the stuff she advertised). she posted that simcred got an update with the latest patch but she didn’t even post it, it’s just another one of her “wips”. she also gets upset any time someone asks when the mod is going to be released and when someone requests a refund due to not getting any of the benefits, she ignores them. AND THE CRAZIEST PART!! All her “wips” are just random assets she got from a free 3d model site!!! this goes as a warning: i know you want to support small creators but please do not subscribe to a patreon with no mods posted, ai thumbnails, and reverse image search their 3d models if they look inconsistent 
+
+speaking of ai thumbnails, the usage of them really needs to be talked about. for kaieiress it was a HUGE red flag for me, but there are other real creators that use ai for their thumbnails and its like… why? you’re already playing the game, just take a screenshot of your sims interacting and edit it onto the same background you put the ai pictures on. it definitely makes people weary of the content you’re putting out (the comments these mods get on pinterest are pretty much entirely worried about the usage of ai) and for good reason. if you use ai instead something as simple as taking a screenshot, who’s to say chat gpt didn’t write the script for you? 
+
+sorry about the long rant, i just think it’s genuinely concerning that no one’s talking about cutting corners in stuff that we put in our games ",Creator using AI-generated images to sell fake mods,Scam/fake download page,security,suspected,Scam/fake download page: scammer,Phishing/social engineering: free | Game errors/conflicts: update,Other / unclear,Patreon,,,,,,,,
+5/29/2025,r/sims4cc,"Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/sims4cc/comments/1ky0zu2/,Anyone encountered this in rebels vault?,"Hi Simmers! Just a question. Did anyone download from the rebels vault today after their long hiatus? Most of the downloads are application type file or .exe. As far as I know, these are possible malware. I attached a screenshot sample of the file. That's a huge library!",Reupload vault now serves .exe/application files,Malware/virus scare,security,suspected,"Malware/virus scare: .exe, malware",,Other / unclear,Not stated,,,,,,,,
+5/20/2025,r/sims4cc,"Game errors/conflicts, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1kqubsu/,"a cc/mod broke my game, how can i prevent or find broken/corrupted mods/cc?","i'm not the most cautions person when it comes to downloading cc and mods, but now and then a cc/mod breaks my game and even after fixing my game and removing all the mods i can't open my savefile, is there a way to know which mods/cc are corrupted or broken? pls give me some light",How to prevent or find broken/corrupted mods/CC,Corrupted/broken save,technical,,Corrupted/broken save: corrupted,Game errors/conflicts: broken,Other / unclear,Not stated,,,,,,,,
+5/5/2025,r/sims4cc,"Malware/virus scare, Download help/how to",https://www.reddit.com/r/sims4cc/comments/1kfblwx/,Tips on restarting Cc/ Mod folder,In January I unfortunately had to wipe my PC because of a virus i downloaded when cc shopping. I’ve lost motivation to restart due to fear of virus again. Any free virus scanners/ tips to avoid sketchy CC and mods?,Had to wipe PC after CC virus; wants scanner tips to avoid sketchy CC,Malware/virus scare,security,suspected,Malware/virus scare: virus,Scam/fake download page: sketchy | Phishing/social engineering: free,Other / unclear,Not stated,,,,,,,,
+4/29/2025,r/sims4cc,"Account/info theft, Phishing/social engineering",https://www.reddit.com/r/sims4cc/comments/1kautj0/,has cc creator madlen's patreon been hacked?,i find that post so strange. why would i need a cc creator specific cc updater???? idk smells 🐟,Creator's Patreon posts a suspicious 'CC updater' - possible hacked account,Account/info theft,security,suspected,Account/info theft: hacked,,Other / unclear,Patreon,,,,,,,,
+4/17/2025,r/sims4cc,"Account/info theft, Malware/virus scare",https://www.reddit.com/r/sims4cc/comments/1k1pkjm/,Another CC creator got hacked,"This time it's Pixelunivairse! 
+Avoid their simfileshare and remember to always double check what you download. 
+Don't run any exe files. ",Another creator's SFS hacked; 'don't run any exe files',Account/info theft,security,check by hand,Account/info theft: hacked,,Other / unclear,Not stated,,,,,,,,
+4/14/2025,r/sims4cc,"Account/info theft, Malware/virus scare",https://www.reddit.com/r/sims4cc/comments/1jzcyb2/,Warning Update: Multiple CC creators have had their SFS accounts hacked. SFS is aware of the issue,Both Simandy and TheNinthWaveSims have reported their SFS accounts being hacked recently. Be extra careful when downloading mods and make sure they are .package files. I would also recommend scanning large mod files/folders with Malwarebytes.,Apr 2025 PSA: multiple creators' SFS accounts hacked; check for .package only,Malware/virus scare; Account/info theft,security,check by hand,Malware/virus scare: malwarebytes | Account/info theft: hacked,Game errors/conflicts: update,Other / unclear,Not stated,,,,,,,,
+2/6/2025,r/sims4cc,Account/info theft,https://www.reddit.com/r/sims4cc/comments/1iisshg/,card information getting stolen?,"im not sure if this is a far fetched idea, but twice now ive had my debit card information stolen within 24 hours of downloading sims 4 cc. ive seen things here and there on twitter about things of this nature being possible. im not sure how accurate this rumor is but i literally can't figure out how my card information would be getting stolen otherwise. is this a crazy idea? does anyone have any advice? thanks in advance!",Debit card info stolen twice within 24h of downloading CC,,none,,,Account/info theft: stolen,Other / unclear,Not stated,,,,,,,,
+11/3/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1xmf4b5/,Fully Custom Brand New World. Meet Foxwood!,"A few in game and Blender shots of my Foxwood world so far! It’s a completely custom brand new world I’ve been working on for months. There’s still a ton to do but most of the coding is finally behind me so I’m getting to the part I’ve been looking forward to (building the homes)! 
+
+Foxwood is inspired by the Midwestern suburbs along Lake Michigan. Leafy streets, the lake of course, old homes, and tons of green space. It’s slowly coming together and I’m excited to share more as I go.
+
+Would love to hear your ideas too. What kinds of houses or neighborhood details would you like to see? 
+
+You can follow Marlowe & Row at link below for more Foxwood updates. Thanks for taking a look!
+
+[Marlowe & Row](https://www.patreon.com/cw/MarloweAndRow)
+
+",Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+11/3/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1xn3dcj/,I made a One Wish Willow mod !,"For Halloween I made a simple mod that let you ask for a wish a with the One Wish Willow stick.  I used the tuning of the wishing well from the Romantic Garden SP06.
+
+Must have SP06  for the mod to work, but if yiu don't the deco version is available. 
+
+[**Download here**](https://pamplemoossims.tumblr.com/post/832069255898988544/one-wish-willow)",Sources: Tumblr,,none,,,,Other / unclear,Tumblr,pamplemoossims.tumblr.com,,,,,,,
+10/29/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1xir4ev/,Halloween CC discussion and any halloweeny creators I may have missed.,"Does anyone know why there’s barely any Halloween CC. I use tsr, mod collective, patreon , sim finds. And you would think at this time of year there would be loads, but I find it’s just normal stuff I’m not Interested in. Anyone else feel the same? I’m into alpha gothic, alternative and Halloween personally and I feel like I have literally everything there is. Does anyone know of a creator that’s pumping out Halloween content that I may have missed ? Thanks in advance!","Sources: Patreon, The Sims Resource, SimsFinds, ModCollective",,none,,,,Other / unclear,Patreon,,,,,,,,
+9/28/2026,r/ModTheSims4,No problem,https://www.reddit.com/r/ModTheSims4/comments/1wsun1b/,Where do i get started with mods?,"I've recently started getting mods, minecraft  and sims 4, but except.. that's the thing. I havent gotten any sims mods! Because, there are just so many, but not enough at the same time. Where do i start? Should I get pregnancy mods, (wonderful whims, and others) CC, School/work mods, personality mods, or something else (theres so many more-). I would prefer if all mod suggestions were curseforge, or you can just lead me in the right direction. Thanks for reading, and if you comment, thanks for spending your time. :)",Sources: CurseForge,,none,,,,Other / unclear,Mod hub,,,,,,,,
+9/13/2026,r/ModTheSims4,No problem,https://www.reddit.com/r/ModTheSims4/comments/1wfldmc/,"Not now, Stereo | Automation Mod","**Automatically turn off the radio!** I had someone request this after posting about another mod I made called, keep the tv on. Just thought I’d share here. :) 
+
+Not Now, Stereo automatically turns off supported home stereos when their room has been empty for your chosen amount of time.
+
+# Features:
+
+Choose between 15 minutes, 1 hour, 2 hours (Sim Time). Keeps music playing while Sims occupy the room or use the stereo. Resets the countdown when someone returns. Remembers your chosen setting.
+
+Designed for supported household-owned stereos on your home lot. Public venues, earbuds and DJ booths are outside its scope. Sleeping Sims still count as room occupants.
+
+**Current Verison:** PC game 1.127.41.1030
+
+# SouSoup | Patreon Link (Free)",Sources: Patreon,,none,,,Phishing/social engineering: free,Other / unclear,Patreon,,,,,,,,
+9/11/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1wdwaek/,Upcoming Sims 4 content creator,"I want to share a few things I’ve been working on! I’ve decided to start a patreon and post them on there after a lot of attention on TikTok and people asking where to get things. I now upload my builds with the cc used & creating my own cc. 
+
+I do mostly UK themed builds and cc & taking requests from members of my patreon. 
+
+Currently I have available: 
+
+🏠 **New build estate**  
+**🏡 Mid 2000’s style housing estate.**   
+**🛍️ Shopping cente**r   
+**🏢 Block of flats**   
+**📦 Delivery boxes cc** 
+
+*(Now working on Pokémon card cc)*
+
+https://www.patreon.com/Onlysims4?utm\_campaign=creatorshare\_creator ",Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+8/15/2026,r/ModTheSims4,No problem,https://www.reddit.com/r/ModTheSims4/comments/1vp3a2h/,Body Divesity for Wicked Whims Gameplay,"Did you ever wish NPC Sims had more unique body parts? Instead of everyone having the same default WW body parts, you could download different meshes and have them distributed across the world. With the Body Diversity Mod, this is no longer just a dream!
+
+This is a WickedWhims-dependent script mod that randomizes body parts (genitals, breasts, chest, tongue, and feet) across every eligible Sim in a save, with rarity-weighted selection, matching hard and soft penises, occult-aware part pools, and Khlas trait integration for size and sexual role.
+
+**What it Does**
+
+* Automatically scans all Sims and assigns each one their own independently-rolled set of body parts, sourced from a fully customizable external file.
+* Automatically matches hard and soft penises.
+* Applies occult-specific part variants.
+* Each sim is only randomized once, so the body parts stay the same throughout gameplay.
+
+[DOWNLOAD (FREE)](https://www.patreon.com/SpcYogrt/posts/body-diversity-v-166581389)",Sources: Patreon,,none,,,Phishing/social engineering: free,Script mod,Patreon,patreon.com,,,,,,,
+7/19/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1v0so5x/,Best updated resources,"Hi, I'm slowly getting back into The Sims 4, and I've been gone for years. What are the best websites for CC (updated or current) and mods? I know there's ""the sims resources"" and ""modthesims"" but they kind of seem outdated? (Perhaps I'm looking for too specific things too). So yeah, what are the best resources? I know Tumblr is good too but I don't know how to look for things, what are the hashtags, etc? Also, I'm not familiar with the ""alpha"" and ""maxis match"" terms. Thank youuuu","Sources: The Sims Resource, ModTheSims, Tumblr",Game errors/conflicts,technical,,"Game errors/conflicts: outdated, updated",Corrupted/broken save: gone,Other / unclear,Tumblr; Mod hub,,,,,,,,
+6/25/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ufhaau/,"""UG"" T-Shirts (Masc Ver.) ༉‧₊˚.","Link ⤵︎
+
+[https://www.patreon.com/viktorysims/posts/ug-t-shirts-masc-162072473?pr=true](https://www.patreon.com/viktorysims/posts/ug-t-shirts-masc-162072473?pr=true)",Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+6/15/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1u61asb/,Question about starting to publish recolors???,So i have a question. I want to start doing recolors and uploading them to Patreon/wherever. I like to make bed recolors specifically lol. I mainly find the patterns on Pinterest and fancy wallpaper websites. If i publish the CC (for free!) do I have to have permission to use those patterns?? Do CC creators who make like wall art and wallpaper just use anything interesting they find online or are they asking for permission to use those designs or prints in the game? I’m probably too high and overthinking it lol but yeah! Would love some input :),"Sources: Patreon, Pinterest",,none,,,Phishing/social engineering: free,Other / unclear,Patreon,,,,,,,,
+5/30/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1trwrid/,Mint Gen Walls and Floors Free On Patreon,You can grab it free on Patreon  [https://www.patreon.com/posts/mint-gen-walls-159633152](https://www.patreon.com/posts/mint-gen-walls-159633152),Sources: Patreon,,none,,,Phishing/social engineering: free,Other / unclear,Patreon,patreon.com,,,,,,,
+5/29/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1tr6zc8/,WCIF Sims Jacket,"Hello where can i find the jacket in the image?
+
+ Photo by JohnnySims on Patreon.",Sources: Patreon,,none,,,,Other / unclear,Patreon,,,,,,,,
+5/14/2026,r/ModTheSims4,No problem,https://www.reddit.com/r/ModTheSims4/comments/1tcug95/,Phoebe BodyPreset ⭐️FREE⭐️,"Do you like this preset?  
+Share your thoughts 💅☕️
+
+If you had to pick one body type for me to make in Sims 4, which one would it be?  
+Throw in a link, a pic, or describe it.
+
+——————————————————————————————  
+[Download](https://www.patreon.com/posts/phoebe-athletic-156857954?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)",Sources: Patreon,,none,,,Phishing/social engineering: free,Other / unclear,Patreon,patreon.com,,,,,,,
+5/6/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1t5hygl/,made a new sim :),this sim is available for download here!; [https://www.patreon.com/posts/sim-download-157542155](https://www.patreon.com/posts/sim-download-157542155),Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+4/7/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1sf2dbp/,Started making girly cc last year :),"I started making cc last year and would love any support! I’m working on my mesh/blender skills and I mainly make decor like wall art, wallpaper and rugs so far.
+
+I have a Patreon but I mostly post on TSR. My username is jessbtlrr 
+
+I had a brain bleed last year and this just keeps me doing and learning stuff, and gives me a purpose I guess haha. I’m open to any feedback but pls be nice :) ","Sources: Patreon, The Sims Resource",,none,,,,CC: Build/Buy,Patreon; Mod hub,,,,,,,,
+3/28/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1s6dj70/,recent female sims,"hair: [simandy](https://www.patreon.com/posts/86855579?collection=459094) \- [imvikai&solitasims](https://www.patreon.com/posts/143240583?collection=417098) \- 
+
+[peachibunnii](https://www.patreon.com/posts/134177090?collection=550491)
+
+top: [serenity](https://www.patreon.com/posts/126572198) \- [sentate](https://www.patreon.com/posts/92214259) \- [AxA](https://www.patreon.com/posts/axa-2025-100-cas-143568822)
+
+[default skin](https://awingedllama.tumblr.com/post/619061357277577216/terrestrial-skinblend-terrestrial-adjective/amp)
+
+[eye colors](https://www.patreon.com/posts/default-and-eye-78446533)
+
+[poses](https://www.patreon.com/posts/ts4-pose-pack-140262265)
+
+wcif ok
+
+what vibes do these sims give off? I feel like I give my sims the same traits always","Sources: Patreon, Tumblr",,none,,,,CC: CAS,Patreon; Tumblr,patreon.com; awingedllama.tumblr.com,,,,,,,
+3/26/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1s4jb4c/,WCIF Makeup Eyeshadow,"I’m using an eyeshadow from [northern siberia winds](https://www.patreon.com/posts/male-asian-58966471) just to test it out since I like his stuff,  but I don’t think the style really fits my Sim. I’m looking for makeup/eyeshadow CC that gives that glittery, highlighted under-eye look (kinda like the picture). It doesn’t have to be specifically for male Sims since I can turn off the masculine filter. If you know any CC that can give my Sims this look, please let me know!",Sources: Patreon,,none,,,,CC: CAS,Patreon,patreon.com,,,,,,,
+3/16/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1rvi399/,Eye lenses recommendations,"Could you recommend some face paint eyes? I create maxis mix sims but my eyes preference are closer to alpha.
+
+One of my favorite eye creators is Praline, especially the eyes he did after leaving tsr. Also I like some Remussirion and Sims3melancholic eyes. And it would be really nice if the sclera would be (something) game friendly.",Sources: The Sims Resource,,none,,,,Other / unclear,Not stated,,,,,,,,
+3/1/2026,r/ModTheSims4,No problem,https://www.reddit.com/r/ModTheSims4/comments/1rhnhkm/,Websites,"Okay so I was just curious over which websites y’all get your sims4 mods off of.
+
+Like I know about curse forge and how some have a separate website for their download but I was trying to find some cas mods, I couldn’t find what I was looking on curse forge, and I didn’t want to randomly click on websites I didn’t know without some kind of research.",Sources: CurseForge,,none,,,,Other / unclear,Not stated,,,,,,,,
+2/4/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1qvaogw/,Thank you! (A Jayden hair appreciation post idk) 🌈✨,"**LINK TO HAIR IS** [**HERE!**](https://www.tumblr.com/imvikai/807474988767657984/jayden-locs)** **🌈🍭🧁
+
+Yes yes, my final post talking about my oc, Jayden and showcasing his hair! Please click [**FOR THE PREVIOUS POST**](https://www.reddit.com/r/sims4cc/comments/1qtx1f0/jayden_locs_is_here/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) I made, (mostly to showcase proof??) as well as my [first post](https://www.reddit.com/r/sims4cc/comments/1qk9y8n/hair_cc_commissions_recommendations/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) related to such!
+
+I just wanted to thank everyone for the positive comments on the hair and how most of you were excited! I’m happy that my Oc’s hair can be a lil change in style for sims, but especially for alt sims like him. Jayden is a very colorful nonbinary guy (I will not be discussing **anything** related to gender and identity about my oc so do not start) and I have always found a hard time trying to find hairstyles that were super cute, colorful, fun and alternative for black male sims.
+
+In fact, finding colorful and cute things for male sims has always been difficult in my case, especially for Jayden. I have never found anything remotely similar to his sense in style or fashion, so I really hope that his hair can be a start to anyone wanting to make black sims who has a similar hairstyle or vibe just like him!
+
+I would also like to thank anyone who’s complimented my art, I appreciate that as well! I am not an active member on reddit nor in the sims community, but I am so happy that this possibility came true for me and that it’s now shared with the rest of you.
+
+This’ll be my last time talking about this I promise lol, and the last time I’m sharing the link to his hairstyle! You can always find it on Imvikai’s patreon, twitter, instagram and tumblr! 
+
+Of course if anyone would like to share any images of your sim with Jayden’s hair, I am also on instagram, twitter, & tumblr under the username **vqmpunk**! I wanna leave all posts related to Jayden’s hairstyle up (as well as artwork) just in case….to again, leave my proof of some sorts so people know this all became a reality because of my Oc!
+
+I just kindly ask if people didn’t plagiarize him? I guess don’t necessarily copy his entire character design, but I honestly don’t care what you with the hairstyle and hair clips itself! I have worked on Jayden since the pandemic, he’s been with me for a good 7 years! :\]","Sources: Patreon, Tumblr",,none,,,,CC: CAS,Patreon; Tumblr,tumblr.com,,,,,,,
+2/3/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1quu2it/,This ancient egypt dress as seen on pic?,"as seen on this patreon post [https://www.patreon.com/posts/pharaoh-outfit-2-41659948](https://www.patreon.com/posts/pharaoh-outfit-2-41659948)
+
+that i came across the image and wondering where is that dress from",Sources: Patreon,,none,,,,CC: CAS,Patreon,patreon.com,,,,,,,
+2/3/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1qv5kss/,Alternative to ONI food mod?,"Hi, I haven’t played my game in a awhile but I just found out through scarlets realm and Patreon that their recipes and mods are obsolete. Does anyone know any food mods with similar cuisines, particularly Asian food? And any chance their recipes still work in your game? Thank you.",Sources: Patreon,,none,,,,Other / unclear,Patreon,,,,,,,,
+1/29/2026,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1qptds3/,kitty girl lookbook ^_^,hiiii! here is a cute lil lookbook i made!! hope you like it n cc list is on my tumblr ♡,Sources: Tumblr,,none,,,,Other / unclear,Tumblr,,,,,,,,
+12/23/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1pu01pw/,iPod Wall Mirror,https://www.curseforge.com/sims4/build-buy/gamer-girl-room-ipod-mirror,Sources: CurseForge,,none,,,,Other / unclear,Mod hub,curseforge.com,,,,,,,
+12/13/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1plabqe/,Christmas Teddy Bear Gift Box,https://www.thesimsresource.com/artists/Severinka_/downloads/details/category/sims4-objects-furnishing-kids/title/christmas-2024-gift-box-with-teddy-bear/id/1725481/,Sources: The Sims Resource,,none,,,,Other / unclear,Mod hub,thesimsresource.com,,,,,,,
+11/25/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1p6npwf/,FREE Office Set & Set of Hats!,[OFFICE](https://www.patreon.com/posts/office-143293913?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)  [HATS](https://www.patreon.com/posts/bear-bunny-cat-143596982?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link),Sources: Patreon,,none,,,Phishing/social engineering: free,Other / unclear,Patreon,patreon.com,,,,,,,
+11/12/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ovf8kc/,Looking for scifi/futuristic bb recommendations!,"I feel like the sims fanbase leans more towards fantasy so when I'm playing with a household that needs scifi elements, it's kinda hard to find good cc. I know that TSR had that scifi themed collection but their website is so damn hard to browse",Sources: The Sims Resource,,none,,,,Other / unclear,Mod hub,,,,,,,,
+11/3/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ononx7/,cute base baddieee,"[Download link <3](https://www.curseforge.com/sims4/sims-households/base-sim-goth)
+
+* *-Base Game Only! No CC*
+* *Traits: Loner, Romantically reserved, high maintenance*
+* *Aspiration: Villainous valentine*
+* *NO outfits Picked Base sim ONLY*",Sources: CurseForge,,none,,,,CC: CAS,Mod hub,curseforge.com,,,,,,,
+10/17/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1o98lnf/,12 District - Mens/Womenwear Collection,Available now for everyone!  https://www.patreon.com/posts/district-12-mens-139340954,Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+10/9/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1o1xt0e/,Can anyone tell me where this hair is from?,"Feels like a long shot lmao, i was downloading the apron from tsr originally but fell in love with the hair on the pic too 😭",Sources: The Sims Resource,,none,,,,CC: CAS,Not stated,,,,,,,,
+9/11/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1nen43o/,SFS,"Sims file share codes you can use to create an account. These are all my codes, so once they're depleted, they will be replenished in due time. 
+
+1. [`23cysHfPseuQFTuFevcfJ8lazleiTw5y`](https://www.simfileshare.net/sharecode/23cysHfPseuQFTuFevcfJ8lazleiTw5y/)
+2. [`kzw2MfVOk5ms3KUHmm2rAcD78DHEqkp9`](https://www.simfileshare.net/sharecode/kzw2MfVOk5ms3KUHmm2rAcD78DHEqkp9/)
+3. [`T5zAId75wVCqRTxVFoeNcLALCzPMtL1h`](https://www.simfileshare.net/sharecode/T5zAId75wVCqRTxVFoeNcLALCzPMtL1h/)
+4. [`vTiNGCEIYiwe6zB0jVScSJJG02M4c0c4`](https://www.simfileshare.net/sharecode/vTiNGCEIYiwe6zB0jVScSJJG02M4c0c4/)
+5. [`mxL0u50vlu3HCK4u6WVejJm1JDlAmdAt`](https://www.simfileshare.net/sharecode/mxL0u50vlu3HCK4u6WVejJm1JDlAmdAt/)
+6. [`bQrfHRQziCgDiyUh2brE6rI9xXnUhHg6`](https://www.simfileshare.net/sharecode/bQrfHRQziCgDiyUh2brE6rI9xXnUhHg6/)
+7. [`uLS4R8WPDcDftwtyUKEcYl74X9qfwEGL`](https://www.simfileshare.net/sharecode/uLS4R8WPDcDftwtyUKEcYl74X9qfwEGL/)
+8. [`zHKAISC07gTiXSEjgeoZEg6j91V19dML`](https://www.simfileshare.net/sharecode/zHKAISC07gTiXSEjgeoZEg6j91V19dML/)
+9. [`FLITQP1iszCIhF01DgvwObKUBSitmr2x`](https://www.simfileshare.net/sharecode/FLITQP1iszCIhF01DgvwObKUBSitmr2x/)
+10. [`AlRIg1qFTVPYStSkxPnL5jka5bxNH9IL`](https://www.simfileshare.net/sharecode/AlRIg1qFTVPYStSkxPnL5jka5bxNH9IL/)",Sources: SimFileShare,,none,,,,Other / unclear,Not stated,simfileshare.net,,,,,,,
+9/10/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1nde5b8/,best places to find custom content?,I’ve always been a TSR girl but I wonder if there’s other sites I could find custom content on? the custom content for male sims is not extraordinarily large and I wanna start putting more efforts into my male sims characters. any suggestions?,Sources: The Sims Resource,,none,,,,Other / unclear,Mod hub,,,,,,,,
+8/16/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1mrty4o/,How long is SixamCC’s early access?,Does anyone know how long his early access is? I thought it was 60 days but the cc pack I want came out 61 days ago and the patreon post is still locked :(,Sources: Patreon,,none,,,Phishing/social engineering: early access,Other / unclear,Patreon,,,,,,,,
+8/8/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ml21pk/,#wcif speedy murakami lv,does anyone know from where is that speedy bag? post is from tumblr whoopssims,Sources: Tumblr,,none,,,,Other / unclear,Tumblr,,,,,,,,
+8/3/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1mgl6nv/,simsulani snowy escape recolors??,"anyone willing to share the link to this file or point me where it might exist in the web?? i already tried kemono and googling ""simsulani fileshare"" and cant find it. please and thank you <3 [https://hellosimsulani.tumblr.com/post/671838592230932480/ski-suit-recolor-hi-everyone-here-is-a-recolor](https://hellosimsulani.tumblr.com/post/671838592230932480/ski-suit-recolor-hi-everyone-here-is-a-recolor)",Sources: Tumblr,,none,,,,Other / unclear,Tumblr,hellosimsulani.tumblr.com,,,,,,,
+7/23/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1m7ffwh/,Looking for CC creators on CurseForge!,Hi! I use curseforge for my cc (mainly just because I’m not very good with technology and it was the first thing I found that downloaded everything to the game for me😅) but whenever I browse lately I feel like I’m seeing all the same things just over and over again. So I was wondering if you guys have any specific creators you love or any hidden gems. Thank you! ☺️,Sources: CurseForge,,none,,,,Other / unclear,Mod hub,,,,,,,,
+7/14/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1lzf1p3/,Preview - Townie Makeover: Summerdream,"This is my first Townie Makeover! WIP! What do you think?
+
+https://www.patreon.com/posts/134063238?utm_campaign=postshare_creator&utm_content=android_share",Sources: Patreon,,none,,,,Other / unclear,Patreon,patreon.com,,,,,,,
+6/10/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1l8c5sz/,Halp,"I use curse forge for downloading my custom content/ mods and I love the hair styles that look kind of realistic. Does anyone have any certain creators that you’d recommend for that kind of hair? I mostly still need men’s, children’s, teens and toddlers. I’m all set on women’s😅 Thank you guys in advance! (:",Sources: CurseForge,,none,,,,CC: CAS,Not stated,,,,,,,,
+6/3/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1l2p9l2/,Please tell me where I can find any of the things here,"So I was going through Goppolsme’s Patreon and saw these sims and wanted them in my game or something close that I can recreate. I’ll just list everything I want:
+1. I’m confused that if I get the eyes, and see a lot of colors, is it the shape of the eye I’m getting or just the eye colors? Because I want the shapes.
+2. where are any of their hairs from? 
+3. Where can I find the nose preset?
+4. what skin overlays could they be using?",Sources: Patreon,,none,,,,CC: CAS,Patreon,,,,,,,,
+5/7/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1kh71bp/,WCIF Liliili’s Milla Style Set?,"None of the Simfileshare posts with liliili's cc (that I've found) have the complete Milla Style set, only the hair. Does anyone have the other parts of this set?",Sources: SimFileShare,,none,,,,CC: CAS,Not stated,,,,,,,,
+4/1/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1joje58/,"WCIF--Pool Trims, Fountain Trims, Environmental objects","Like the title says, been wondering why there's such a lack of pool trim cc. Especially for base game. I have maybe a couple---some from tsr, and one from Max20. Otherwise, when I search for pool trim cc, hardly anything comes up, and/or its just results for how to make pools/people's custom pool builds. Also Mr. Olkan's CoolPools pack which, while I did love a lot, is kind of outdated since round pools were introduced to the game.
+
+Am also seeking environmental objects like the Polar pack pt. 1 from AnachroSims: [https://www.patreon.com/posts/103226625](https://www.patreon.com/posts/103226625) \---really love how detailed the icebergs and rocks are here, especially the terrain paints. Does anyone know of any cc that is similar/has terrain paints like this but for other seasons? Maybe some unique rock formations/rock cc? Ik Eniosta had some but I'd also rather not have anything that's too high poly lol.
+
+Thanks in advance!","Sources: Patreon, The Sims Resource",Game errors/conflicts,technical,,Game errors/conflicts: outdated,,Other / unclear,Patreon,patreon.com,,,,,,,
+3/6/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1j4m3vo/,Good cc websites?,Do you guys know of any good cc websites? I’ve been using the sims resource because I used to use that one when I played the Sims when I was younger but I can’t find many items on there that I like. I like more alt/emo stuff or at least stuff that isn’t like popular girl core. Like any type of alt stuff. I have found a few good hairs and some clothing items there but it’s not that much. Just any recommendations. Thanks!,Sources: The Sims Resource,,none,,,,CC: CAS,Mod hub,,,,,,,,
+2/17/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1irn581/,My first lookbook and sim dump!,"*Processing img fqd499o72qje1...*
+
+*Processing img 45ugq8o72qje1...*
+
+I honestly had a lot of fun doing it, and i thought of posting it here to also showcase my favourite CC finds!   
+And i might do bigger dumps in the future if people like them. [all the links here!](https://www.tumblr.com/allscalliesims/775744480687063040/male-sim-dump-lookbook-extra-photo-under-the?source=share)",Sources: Tumblr,,none,,,,Other / unclear,Tumblr,tumblr.com,,,,,,,
+2/10/2025,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ilt2u9/,New CC Alert! Open Kimono and Coordinating Accessory Tank,"https://preview.redd.it/7a9huzaxc7ie1.png?width=634&format=png&auto=webp&s=305b007b031d94f99d3a7656e2db6691f95c20bb
+
+An open kimono (shirt category) for the guys to wear alone or with your favorite accessory tee.
+
+ Coordinating accessory tank included; can be found in the gloves category
+
+Both items are basegame compatible
+
+ Kimono has 31 swatches; coordinating tank has 50
+
+Download for free on my [Pateron](https://www.patreon.com/posts/open-kimono-and-121887448?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) or [SimsFileShare](http://www.simfileshare.net/download/5292117/)
+
+Enjoy!","Sources: Patreon, SimFileShare",,none,,,Phishing/social engineering: free,Other / unclear,Patreon,patreon.com; simfileshare.net,,,,,,,
+9/20/2024,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1fli1e6/,WCIF Anything in this picture?,"Hey guys!
+
+Ran across this room AggressiveKitty made but it's not her cc. Does anybody recognize any of it?
+
+https://aggressivekitty.tumblr.com/post/187606701543/witchcraft",Sources: Tumblr,,none,,,,Other / unclear,Tumblr,aggressivekitty.tumblr.com,,,,,,,
+8/23/2024,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/1ezigfc/,WCIF?,"Does anybody know where I can find CC that looks like the one in this picture but in black?
+
+You can find/download the CC in the picture here ↓
+ https://bionicfinds.tumblr.com/post/681547122350374912/simomo-cc-rain-snake-bites-20-swatches",Sources: Tumblr,,none,,,,Other / unclear,Tumblr,bionicfinds.tumblr.com,,,,,,,
+1/11/2024,r/thesims,No problem,https://www.reddit.com/r/thesims/comments/193oip9/,any new/updated skintone packs post-infant update (sims 4),"i loved the [lamatisse bare skintone pack](https://lamatisse.tumblr.com/post/626644431812100096/bare-a-skintone-pack-there-are-so-many-creators) because it added so many other skintones into the game but it hasn't been updated since 2021. Since the infants update came out, the skintones have been funky whenever a new sim is born. does anyone know of a skintone pack that works with the infants update?",Sources: Tumblr,Game errors/conflicts,technical,,"Game errors/conflicts: update, updated",,CC: CAS,Tumblr,lamatisse.tumblr.com,,,,,,,
+1/9/2024,r/sims4cc,No problem,https://www.reddit.com/r/sims4cc/comments/192pf9n/,WCIF the top/outfit on this sim?,"&#x200B;
+
+https://preview.redd.it/g3ygcdr6ahbc1.png?width=816&format=png&auto=webp&s=f80d7675cf23535dacdc889ae87bc0a5fd2435f3
+
+Saw it on [Natalia-Auditore's patreon](https://www.patreon.com/posts/95011246)",Sources: Patreon,,none,,,,CC: CAS,Patreon,patreon.com,,,,,,,
+11/10/2026,r/thesimscc,No problem,https://www.reddit.com/r/thesimscc/comments/1xsnpkw/,Where i can find this plss,"If anyone knows where I can download this, please let me know. I realized that all the CC from this creator is paid content. (Picture of ddaeng sims [paid creator] food mod)","Sources: Patreon, SimFileShare",,none,,,,Other / unclear,Not stated,,,,,,,,
+10/20/2026,r/thesimscc,No problem,https://www.reddit.com/r/thesimscc/comments/1xazk5q/does_anyone_know_where_this_pj_set_is_from_help/,Does anyone know where this PJ set is from? (Help please),[Image/link post],"Sources: Patreon, SimFileShare",,none,,,,Other / unclear,Not stated,,,,,,,,
+10/23/2026,r/thesimscc,No problem,https://www.reddit.com/r/thesimscc/comments/1xe3cy8/wcif_the_headboard_for_bed_2/,WCIF the headboard for bed 2?,[Image/link post],Comment: It's from the Insomnia set by CharlyPancakes! A second commenter asked about another bed in the image and was given the original post.,,none,,,,Other / unclear,Not stated,,,,,,,,
+7/1/2026,r/thesims,Download help/how to,https://www.reddit.com/r/thesims/comments/1urzzpy/does_anyone_know_where_to_get_it_custom_content/,Does anyone know where to get IT custom content for the sims 4?,Where can i find IT cc for the sims 4? im planning to make a happy ending type thing but i really need it custom content for it and i cant find anything!,"Sources: The Sims Resource, Google search",,none,,,,Other / unclear,Not stated,,,,,,,,
+2/1/2024,r/thesims,Download help/how to,https://www.reddit.com/r/thesims/comments/1ax9va1/how_do_you_use_the_custom_content_stuff_in_sims_4/,How do you use the custom content stuff in Sims 4?,I see there's a lot of really cute and cool things that you can do in Sims with cc but not really sure how to access it or really where to go to download it. Help pls,"Sources: The Sims Resource, Tumblr",,none,,,,Other / unclear,Not stated,,,,,,,,
+5/1/2026,r/thesims,Download help/how to,https://www.reddit.com/r/thesims/comments/1t1p8sw/what_is_your_goto_place_for_maxis_match_custom/,What is your go-to place for maxis match custom content?,I used to love TSR but I've been mostly seeing alpha cc nowadays. Would love to hear of other creators/stores for MM CC!,"Sources: The Sims Resource, Tumblr, Pinterest, Patreon",,none,,,,Other / unclear,Mod hub,,,,,,,,
+1/1/2025,r/thesims,No problem,https://www.reddit.com/r/thesims/comments/1hpw5x5/how_do_i_go_about_making_custom_content/,How do I go about making custom content?,"Hi, my girlfriend recently got into gaming, and is reliving her Sims 2 childhood by playing the Sims 4. I have a background in some 3d modelling and graphic design, and game development. I wanted to surprise her with her house custom built in the Sims 4, so she can play in it. How would I go about starting to do this? I see the Sims 4 Studio come up a lot, but at first glance it seems to be just recolouring? It's also third party? Is there a tutorial or starter guide someone can point me to, so I can start building some in-game content?","Sources: Sims 4 Studio, YouTube",,none,,,,Other / unclear,Not stated,,,,,,,,
+4/1/2024,r/thesims,No problem,https://www.reddit.com/r/thesims/comments/1by2jko/lets_be_real_most_sims_made_with_custom_content/,Let's be real: most sims made with custom content look like this,[Image],Sources: Not stated,,none,,,,Other / unclear,Not stated,,,,,,,,
+11/12/2026,r/thesims,No problem,https://www.reddit.com/r/thesims/comments/1xuik6x/sims_2_mods_and_custom_content/,Sims 2 mods and custom content,"Hey peeps, I'm thinking of buying the sims 2. I've only ever played sims 4, but it's just so bad especially now. I tried shifting to paralives, but it's just not fleshed out enough for me yet. All this to say, I'm thinking of getting sims 2. I know it's, like, THE sims game for a lot of people so I'm quite intrigued, but I'm wondering if people are actively making CC and mods for it and, if so, which are the best that I should look into. Anything anyone can provide is greatly appreciated :)","Sources: ModTheSims, Tumblr",,none,,,,Other / unclear,Not stated,,,,,,,,
+11/8/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xqwvwf/is_there_a_mod_that_makes_sims_autonomously_go/,Is there a mod that makes Sims autonomously go out and actually have a social life?,"Is there a mod that allows Sims to autonomously go out and do things without me constantly having to manually make them do it? For example, with teenage Sims, I'd love for them to actually want to leave the house, meet up with friends, go shopping, go to the cinema, attend parties, visit friends, etc. without me having to select every single activity for them. Or a system where teens could autonomously ask their parents for permission to go out, with the option to approve or deny their request and perhaps set a curfew. Basically, I want my Sims to have lives outside the house without me having to micromanage absolutely everything. I already have Dynamic Teen Life and Teen Stories and Activities, but I'm looking for something that makes these things happen autonomously, rather than requiring me to initiate the interactions myself. Does anything like this exist? I'd really appreciate any recommendations!",Sources: Not stated,,none,,,,Other / unclear,Not stated,,,,,,,,
+5/1/2026,r/CrackSupport,"Account/info theft, Malware/virus scare, Scam/fake download page",https://www.reddit.com/r/CrackSupport/comments/1tidqoi/mirror_anadius_for_sims_is_not_safe/,Mirror Anadius for sims is NOT SAFE,"Hiii, I used the mirror site extremely carefully, but this was apparently not enough. Now I have someone logging into all of my accounts to scam people, so please be careful when doing and clicking something on the site.","Sources: Anadius Mirror, GoFile, MultiUp, Pixeldrain, MediaFire, FitGirl Repacks, cis.rin.ru",Scam/fake download page,security,check by hand,Scam/fake download page: scam,,Other / unclear,Not stated,,,,,,,,
+11/12/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xui96u/advice_using_sims_4_mod_manager/,Advice using sims 4 mod manager,"I currently trying to organize my mods so that I can have two categories, one for my regular mods and cc and one for my historical/decades save. I want to make it so that I can disable either one depending on which save I'm playing. However, I find that the sims 4 mod manager app is really confusing and difficult when it comes to creating folders and organizing them. I want to have 3 separate folders - one for the historical cc, one for the regular cc, and one for cc that can apply to both. Does anyone who has done something similar have any suggestions or advice?",Sources: Not stated,,none,,,,Other / unclear,Not stated,,,,,,,,
+11/11/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xtuux9/mod_for_textcall_updates_from_friends/,Mod for Text/Call updates from friends?,"Hi! Misslollypopsims had this happen during her stream and I could not get her to read chat to tell us the name of the mod. It has pop ups like ""Hey, me and so and so broke up."" Or ""I just got married!"" The pop ups come from friends when they call or text you. I cannot find the mod anywhere. Anyone have any idea what mod this is?","Sources: Tumblr, Patreon",,none,,,,Other / unclear,Not stated,,,,,,,,
+11/4/2026,r/ModTheSims4,Download help/how to,https://www.reddit.com/r/ModTheSims4/comments/1xnyod2/looking_for_a_mod_that_includes_homophobia_for_my/,Looking for a mod that includes homophobia for my storytelling!,"I want to make a Christian family with a closeted gay daughter/son, but i want the rest of the family to be homophobic or else it wont work. Anyone know one? I know PimpmySims4 (i think that's their name) had it but they removed it in the latest update because it didn't sit right with them, and i don't think luminous LBGT mod is strong enough for me. Anyone have any suggestions.","Sources: Lumpinou Mods (lumpinoumods.com), Patreon",,none,,,Game errors/conflicts: update,Other / unclear,Not stated,,,,,,,,
+11/8/2026,r/ModTheSims4,Malware/virus scare,https://www.reddit.com/r/ModTheSims4/comments/1xrbqj0/is_there_any_cc_that_matches_my_ocs_that_wont/,Is there any CC that matches my ocs that won't give a suspicious link notif to my internet service?,"I am just looking for some sims 4 CC for CAS that I can use for my ocs, I have attached the photos here too, I also need to find better trans scars for my oc Damien. (Note : these are the only pics I have of them bc my phone broke and I'm using my tablet, I also don't really need any wing/horn and tail cc but if you do have some you can add it anyway) [Image]",Comment: Use VPN and ad-blocker to avoid suspicious links that notify your internet service provider,Malware/virus scare,security,suspected,Malware/virus scare: suspicious link,,CC: CAS,Not stated,,,,,,,,
+11/8/2026,r/ModTheSims4,Game errors/conflicts,https://www.reddit.com/r/ModTheSims4/comments/1xqy51j/recent_update_broken_cc/,Recent update - broken cc?,"Hey everyone, Yesterday I finally updated my game (something I try to avoid these days …) and now it doesn't even start. Every time I try to open the game, an error message appears, telling me that certain items of cc seem to be damaged or broken. I do not use script mods, I've cleared the cache and I've been trying to go through my cc folders to identify all broken pieces of cc, but it's just a lot. For example none of the items by Twistedcat seem to work, so I've gotten rid of those just for the game to tell me - surprise! - another creator's cc seems to be broken as well. I've got over 2000 cc items in my mods folder and I really don't wanna go through it all just to get rid of everything - and lose that cc altogether because my game doesn't allow me to run the game with them in it. is there any possibility that it could be something else but those particular pieces of cas cc? something i'm missing perhaps? has anyone experienced the same issue? incredibly grateful for any help!!",Sources: CurseForge,Game errors/conflicts,technical,,"Game errors/conflicts: broken, error, update, updated",Corrupted/broken save: missing,Script mod,Not stated,,,,,,,,
+2/1/2024,r/thesims,Malware/virus scare,https://www.reddit.com/r/thesims/comments/1aqmlil/malware_in_mods/,malware in mods?,"This may sound silly, but I've recently heard about malware in mods. I only have a few mods (3, rip) but it's scary because I don't know much about computers and viruses scare me 😅 Any advice to stay safe or tips on how to virus scan? Thanks :) -a teenager who doesn't know much about computers😅 Edit: The Mod Guard mod by TwistedMexi was recommended. I'll download it carefully/look into it. Thanks everyone 😃","Sources: Patreon, MCCC website, TwistedMexi website, The Sims Resource, Mod The Sims, CurseForge, Tumblr, Scarlet's Realm",Malware/virus scare,security,suspected,"Malware/virus scare: malware, virus, viruses",,Other / unclear,Not stated,,,,,,,,

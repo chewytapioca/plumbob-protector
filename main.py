@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python3
+"""Usage: python csv_tagger.py posts.csv [--out FILE] [--fill-tags] | --selftest"""
 
 import argparse
 import csv
@@ -6,8 +7,6 @@ import re
 import sys
 from urllib.parse import urlparse
 
-# strong keyword = tags the post by itself. weak keyword = common word, only tags the post
-# when 2 different weak keywords appear (a single weak hit goes in "Review (weak hits)").
 TAGS = {
     "Malware/virus scare": {
         "kind": "security",
@@ -118,7 +117,6 @@ def normalize(text):
 
 
 def find_hits(text, patterns):
-    """Matches that are not negated ('no virus', 'not a scam')."""
     hits = set()
     for rx in patterns:
         for m in rx.finditer(text):
@@ -179,9 +177,11 @@ def find_col(fieldnames, *names):
 
 def process(in_path, out_path, fill_tags):
     with open(in_path, newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        fields = list(reader.fieldnames or [])
-        rows = list(reader)
+        lines = f.readlines()
+    start = next((i for i, ln in enumerate(lines) if "title" in ln.lower()), 0)
+    reader = csv.DictReader(lines[start:])
+    fields = list(reader.fieldnames or [])
+    rows = list(reader)
     title_col = find_col(fields, "title")
     text_col = find_col(fields, "content", "text", "body")
     link_col = find_col(fields, "post link", "permalink", "link", "url")

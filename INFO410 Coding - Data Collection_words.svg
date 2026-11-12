@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1200" height="800" fill="#ffffff"/>
+<text x="24" y="36" font-size="22" font-weight="700" fill="#222">Most common words: all posts (n=154 posts; number = posts mentioning it)</text>
+<circle cx="629.4" cy="401.0" r="88.2" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="629.4" y="399.0" text-anchor="middle" font-size="29.1" font-weight="600" fill="#fff">download</text>
+<text x="629.4" y="428.6" text-anchor="middle" font-size="23.2" fill="#fff" fill-opacity="0.9">53</text>
+<circle cx="776.9" cy="403.2" r="56.8" fill="#00a878" fill-opacity="0.85"/>
+<text x="776.9" y="401.2" text-anchor="middle" font-size="23.9" font-weight="600" fill="#fff">virus</text>
+<text x="776.9" y="425.9" text-anchor="middle" font-size="19.1" fill="#fff" fill-opacity="0.9">22</text>
+<circle cx="478.5" cy="397.8" r="56.8" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="478.5" y="395.8" text-anchor="middle" font-size="21.4" font-weight="600" fill="#fff">website</text>
+<text x="478.5" y="418.1" text-anchor="middle" font-size="17.1" fill="#fff" fill-opacity="0.9">22</text>
+<circle cx="527.2" cy="509.1" r="56.8" fill="#f5a623" fill-opacity="0.85"/>
+<text x="527.2" y="507.1" text-anchor="middle" font-size="21.4" font-weight="600" fill="#fff">patreon</text>
+<text x="527.2" y="529.5" text-anchor="middle" font-size="17.1" fill="#fff" fill-opacity="0.9">22</text>
+<circle cx="734.7" cy="291.4" r="55.5" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="734.7" y="289.4" text-anchor="middle" font-size="20.9" font-weight="600" fill="#fff">malware</text>
+<text x="734.7" y="311.3" text-anchor="middle" font-size="16.7" fill="#fff" fill-opacity="0.9">21</text>
+<circle cx="555.6" cy="273.2" r="55.5" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="555.6" y="271.2" text-anchor="middle" font-size="23.3" font-weight="600" fill="#fff">file</text>
+<text x="555.6" y="295.3" text-anchor="middle" font-size="18.7" fill="#fff" fill-opacity="0.9">21</text>
+<circle cx="703.2" cy="526.0" r="52.8" fill="#4bb543" fill-opacity="0.85"/>
+<text x="703.2" y="524.0" text-anchor="middle" font-size="12.7" font-weight="600" fill="#fff">downloading</text>
+<text x="703.2" y="538.0" text-anchor="middle" font-size="10.1" fill="#fff" fill-opacity="0.9">19</text>
+<circle cx="828.5" cy="504.3" r="51.4" fill="#e8590c" fill-opacity="0.85"/>
+<text x="828.5" y="502.3" text-anchor="middle" font-size="21.6" font-weight="600" fill="#fff">update</text>
+<text x="828.5" y="524.8" text-anchor="middle" font-size="17.3" fill="#fff" fill-opacity="0.9">18</text>
+<circle cx="608.8" cy="582.7" r="50.0" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="608.8" y="580.7" text-anchor="middle" font-size="21.0" font-weight="600" fill="#fff">files</text>
+<text x="608.8" y="602.7" text-anchor="middle" font-size="16.8" fill="#fff" fill-opacity="0.9">17</text>
+<circle cx="431.9" cy="300.3" r="48.5" fill="#00a878" fill-opacity="0.85"/>
+<text x="431.9" y="298.3" text-anchor="middle" font-size="20.4" font-weight="600" fill="#fff">safe</text>
+<text x="431.9" y="319.7" text-anchor="middle" font-size="16.3" fill="#fff" fill-opacity="0.9">16</text>
+<circle cx="652.3" cy="216.8" r="48.5" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="652.3" y="214.8" text-anchor="middle" font-size="20.4" font-weight="600" fill="#fff">link</text>
+<text x="652.3" y="236.2" text-anchor="middle" font-size="16.3" fill="#fff" fill-opacity="0.9">16</text>
+<circle cx="846.9" cy="323.2" r="46.9" fill="#f5a623" fill-opacity="0.85"/>
+<text x="846.9" y="321.2" text-anchor="middle" font-size="17.7" font-weight="600" fill="#fff">without</text>
+<text x="846.9" y="340.0" text-anchor="middle" font-size="14.1" fill="#fff" fill-opacity="0.9">15</text>
+<circle cx="407.9" cy="478.4" r="46.9" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="407.9" y="476.4" text-anchor="middle" font-size="12.4" font-weight="600" fill="#fff">downloaded</text>
+<text x="407.9" y="490.2" text-anchor="middle" font-size="9.9" fill="#fff" fill-opacity="0.9">15</text>
+<circle cx="911.1" cy="402.3" r="46.9" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="911.1" y="400.3" text-anchor="middle" font-size="19.7" font-weight="600" fill="#fff">tsr</text>
+<text x="911.1" y="421.0" text-anchor="middle" font-size="15.8" fill="#fff" fill-opacity="0.9">15</text>
+<circle cx="351.1" cy="401.4" r="43.7" fill="#4bb543" fill-opacity="0.85"/>
+<text x="351.1" y="399.4" text-anchor="middle" font-size="18.4" font-weight="600" fill="#fff">issue</text>
+<text x="351.1" y="418.9" text-anchor="middle" font-size="14.7" fill="#fff" fill-opacity="0.9">13</text>
+<circle cx="765.0" cy="604.2" r="43.7" fill="#e8590c" fill-opacity="0.85"/>
+<text x="765.0" y="602.2" text-anchor="middle" font-size="16.4" font-weight="600" fill="#fff">creator</text>
+<text x="765.0" y="619.8" text-anchor="middle" font-size="13.2" fill="#fff" fill-opacity="0.9">13</text>
+<circle cx="461.2" cy="591.0" r="43.7" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="461.2" y="589.0" text-anchor="middle" font-size="16.4" font-weight="600" fill="#fff">viruses</text>
+<text x="461.2" y="606.6" text-anchor="middle" font-size="13.2" fill="#fff" fill-opacity="0.9">13</text>
+<circle cx="801.5" cy="209.9" r="43.7" fill="#00a878" fill-opacity="0.85"/>
+<text x="801.5" y="207.9" text-anchor="middle" font-size="18.4" font-weight="600" fill="#fff">site</text>
+<text x="801.5" y="227.3" text-anchor="middle" font-size="14.7" fill="#fff" fill-opacity="0.9">13</text>
+<circle cx="496.3" cy="188.4" r="43.7" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="496.3" y="186.4" text-anchor="middle" font-size="18.4" font-weight="600" fill="#fff">custom</text>
+<text x="496.3" y="205.9" text-anchor="middle" font-size="14.7" fill="#fff" fill-opacity="0.9">13</text>
+<circle cx="338.3" cy="291.3" r="42.0" fill="#f5a623" fill-opacity="0.85"/>
+<text x="338.3" y="289.3" text-anchor="middle" font-size="17.6" font-weight="600" fill="#fff">share</text>
+<text x="338.3" y="308.1" text-anchor="middle" font-size="14.1" fill="#fff" fill-opacity="0.9">12</text>
+<circle cx="925.6" cy="519.7" r="42.0" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="925.6" y="517.7" text-anchor="middle" font-size="15.8" font-weight="600" fill="#fff">updated</text>
+<text x="925.6" y="534.7" text-anchor="middle" font-size="12.6" fill="#fff" fill-opacity="0.9">12</text>
+<circle cx="405.0" cy="209.8" r="42.0" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="405.0" y="207.8" text-anchor="middle" font-size="17.6" font-weight="600" fill="#fff">free</text>
+<text x="405.0" y="226.5" text-anchor="middle" font-size="14.1" fill="#fff" fill-opacity="0.9">12</text>
+<circle cx="921.8" cy="268.8" r="40.2" fill="#4bb543" fill-opacity="0.85"/>
+<text x="921.8" y="266.8" text-anchor="middle" font-size="13.2" font-weight="600" fill="#fff">computer</text>
+<text x="921.8" y="281.4" text-anchor="middle" font-size="10.6" fill="#fff" fill-opacity="0.9">11</text>
+<circle cx="853.8" cy="595.5" r="40.2" fill="#e8590c" fill-opacity="0.85"/>
+<text x="853.8" y="593.5" text-anchor="middle" font-size="15.1" font-weight="600" fill="#fff">playing</text>
+<text x="853.8" y="609.9" text-anchor="middle" font-size="12.1" fill="#fff" fill-opacity="0.9">11</text>
+<circle cx="332.6" cy="532.6" r="40.2" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="332.6" y="530.6" text-anchor="middle" font-size="15.1" font-weight="600" fill="#fff">deleted</text>
+<text x="332.6" y="547.0" text-anchor="middle" font-size="12.1" fill="#fff" fill-opacity="0.9">11</text>
+<circle cx="984.0" cy="457.1" r="40.2" fill="#00a878" fill-opacity="0.85"/>
+<text x="984.0" y="455.1" text-anchor="middle" font-size="16.9" font-weight="600" fill="#fff">folder</text>
+<text x="984.0" y="473.1" text-anchor="middle" font-size="13.5" fill="#fff" fill-opacity="0.9">11</text>
+<circle cx="267.3" cy="437.5" r="40.2" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="267.3" y="435.5" text-anchor="middle" font-size="13.2" font-weight="600" fill="#fff">creators</text>
+<text x="267.3" y="450.1" text-anchor="middle" font-size="10.6" fill="#fff" fill-opacity="0.9">11</text>
+<circle cx="731.8" cy="162.5" r="38.3" fill="#f5a623" fill-opacity="0.85"/>
+<text x="731.8" y="160.5" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">guys</text>
+<text x="731.8" y="177.8" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="277.5" cy="347.6" r="38.3" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="277.5" y="345.6" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">may</text>
+<text x="277.5" y="362.9" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="615.9" cy="673.7" r="38.3" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="615.9" y="671.7" text-anchor="middle" font-size="14.4" font-weight="600" fill="#fff">already</text>
+<text x="615.9" y="687.4" text-anchor="middle" font-size="11.5" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="646.1" cy="125.8" r="38.3" fill="#4bb543" fill-opacity="0.85"/>
+<text x="646.1" y="123.8" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">never</text>
+<text x="646.1" y="141.1" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="995.2" cy="366.4" r="38.3" fill="#e8590c" fill-opacity="0.85"/>
+<text x="995.2" y="364.4" text-anchor="middle" font-size="12.6" font-weight="600" fill="#fff">websites</text>
+<text x="995.2" y="378.4" text-anchor="middle" font-size="10.1" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="375.2" cy="604.0" r="38.3" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="375.2" y="602.0" text-anchor="middle" font-size="12.6" font-weight="600" fill="#fff">actually</text>
+<text x="375.2" y="616.0" text-anchor="middle" font-size="10.1" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="724.3" cy="685.0" r="38.3" fill="#00a878" fill-opacity="0.85"/>
+<text x="724.3" y="683.0" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">feel</text>
+<text x="724.3" y="700.3" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="536.9" cy="113.9" r="38.3" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="536.9" y="111.9" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">always</text>
+<text x="536.9" y="129.2" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="1001.0" cy="286.0" r="38.3" fill="#f5a623" fill-opacity="0.85"/>
+<text x="1001.0" y="284.0" text-anchor="middle" font-size="16.1" font-weight="600" fill="#fff">love</text>
+<text x="1001.0" y="301.3" text-anchor="middle" font-size="12.9" fill="#fff" fill-opacity="0.9">10</text>
+<circle cx="530.7" cy="637.6" r="36.4" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="530.7" y="635.6" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">kind</text>
+<text x="530.7" y="652.2" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="310.1" cy="212.3" r="36.4" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="310.1" y="210.3" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">making</text>
+<text x="310.1" y="226.8" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="430.4" cy="671.0" r="36.4" fill="#4bb543" fill-opacity="0.85"/>
+<text x="430.4" y="669.0" text-anchor="middle" font-size="10.6" font-weight="600" fill="#fff">corrupted</text>
+<text x="430.4" y="681.1" text-anchor="middle" font-size="8.5" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="833.0" cy="130.0" r="36.4" fill="#e8590c" fill-opacity="0.85"/>
+<text x="833.0" y="128.0" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">save</text>
+<text x="833.0" y="144.6" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="950.0" cy="600.4" r="36.4" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="950.0" y="598.4" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">open</text>
+<text x="950.0" y="615.0" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="420.6" cy="127.4" r="36.4" fill="#00a878" fill-opacity="0.85"/>
+<text x="420.6" y="125.4" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">hacked</text>
+<text x="420.6" y="141.9" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="836.7" cy="678.1" r="36.4" fill="#ff6b6b" fill-opacity="0.85"/>
+<text x="836.7" y="676.1" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">advice</text>
+<text x="836.7" y="692.6" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="549.8" cy="713.6" r="36.4" fill="#f5a623" fill-opacity="0.85"/>
+<text x="549.8" y="711.6" text-anchor="middle" font-size="13.7" font-weight="600" fill="#fff">updates</text>
+<text x="549.8" y="726.6" text-anchor="middle" font-size="10.9" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="713.1" cy="86.4" r="36.4" fill="#2d9cdb" fill-opacity="0.85"/>
+<text x="713.1" y="84.4" text-anchor="middle" font-size="13.7" font-weight="600" fill="#fff">account</text>
+<text x="713.1" y="99.4" text-anchor="middle" font-size="10.9" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="964.2" cy="200.4" r="36.4" fill="#c05cc9" fill-opacity="0.85"/>
+<text x="964.2" y="198.4" text-anchor="middle" font-size="13.7" font-weight="600" fill="#fff">there's</text>
+<text x="964.2" y="213.4" text-anchor="middle" font-size="10.9" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="289.7" cy="601.0" r="36.4" fill="#4bb543" fill-opacity="0.85"/>
+<text x="289.7" y="599.0" text-anchor="middle" font-size="13.7" font-weight="600" fill="#fff">finally</text>
+<text x="289.7" y="614.0" text-anchor="middle" font-size="10.9" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="218.5" cy="501.6" r="36.4" fill="#e8590c" fill-opacity="0.85"/>
+<text x="218.5" y="499.6" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">give</text>
+<text x="218.5" y="516.1" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="197.0" cy="389.8" r="36.4" fill="#7b61ff" fill-opacity="0.85"/>
+<text x="197.0" y="387.8" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">issues</text>
+<text x="197.0" y="404.3" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+<circle cx="228.0" cy="279.2" r="36.4" fill="#00a878" fill-opacity="0.85"/>
+<text x="228.0" y="277.2" text-anchor="middle" font-size="15.3" font-weight="600" fill="#fff">recent</text>
+<text x="228.0" y="293.7" text-anchor="middle" font-size="12.2" fill="#fff" fill-opacity="0.9">9</text>
+</svg>
