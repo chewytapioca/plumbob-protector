@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """Usage: python bubbles.py sheet.csv [--tags] [--tag NAME] [--problems-only] [--top N] [--out FILE.svg]"""
+# To run this: just do sys.argv = ["bubbles.py", "INFO410 Coding - Data Collection.csv", "--sources"]
+# exec(open("bubbles.py", encoding="utf-8").read()) inside your Windows Powershell while the Plumbob Protector is open 
 
 import argparse
 import csv
@@ -49,6 +51,36 @@ def read_rows(path):
 
 def tags_of(r):
     return [t.strip() for t in (r.get("issue type") or "").split(",") if t.strip()]
+
+
+SOURCE_ALIASES = {
+    "tsr": "The Sims Resource", "the sims resource": "The Sims Resource", "thesimsresource": "The Sims Resource",
+    "mod the sims": "ModTheSims", "modthesims": "ModTheSims", "mts": "ModTheSims",
+    "curseforge": "CurseForge", "patreon": "Patreon", "tumblr": "Tumblr", "pinterest": "Pinterest",
+    "simfileshare": "SimFileShare", "google": "Google search",
+}
+
+
+def sources_of(r):
+    note = (r.get("additional notes") or "").strip()
+    if not note.lower().startswith("sources:"):
+        return None
+    out = []
+    for part in note.split(":", 1)[1].split(","):
+        name = re.sub(r"\(.*?\)", "", part).strip().rstrip(".")
+        if not name or name.lower() == "not stated":
+            continue
+        name = SOURCE_ALIASES.get(name.lower(), name)
+        if name not in out:
+            out.append(name)
+    return out
+
+
+def rate_color(rate):
+    r = int(47 + (224 - 47) * rate)
+    g = int(158 + (49 - 158) * rate)
+    b = int(68 + (49 - 68) * rate)
+    return f"#{r:02x}{g:02x}{b:02x}"
 
 
 def words(text):
@@ -109,6 +141,7 @@ def main():
     p.add_argument("--tag", help='only posts with this Issue Type, e.g. "Malware/virus scare"')
     p.add_argument("--problems-only", action="store_true", help='skip "No problem" and "Download help/how to" posts')
     p.add_argument("--tags", action="store_true", help="one bubble per Issue Type instead of words")
+    p.add_argument("--sources", action="store_true", help="one bubble per download source from the Sources: notes, colored by problem rate")
     p.add_argument("--top", type=int, default=50, help="how many words to show (default 50)")
     p.add_argument("--out", help="output .svg file")
     a = p.parse_args()
@@ -124,6 +157,36 @@ def main():
         open(out, "w", encoding="utf-8").write(
             svg(placed, f"Posts per Issue Type (n={len(rows)} posts; a post with 2 tags counts in both)", lambda l, i: TAG_COLORS.get(l, "#868e96")))
         print(f"Saved {out}")
+        return
+
+    if a.sources:
+        stats = {}
+        covered = 0
+        problems_with_src = 0
+        for r in rows:
+            srcs = sources_of(r)
+            if srcs is None:
+                continue
+            covered += 1
+            is_problem = any(t.lower() not in NON_PROBLEM for t in tags_of(r))
+            problems_with_src += is_problem
+            for sname in srcs:
+                st = stats.setdefault(sname, [0, 0])
+                st[0] += 1
+                st[1] += is_problem
+        if not stats:
+            sys.exit("No 'Sources:' notes found in the Additional Notes column.")
+        items = sorted(((n, v[0]) for n, v in stats.items()), key=lambda x: -x[1])[:a.top]
+        placed = [(l, c, x, y + 30, r) for l, c, x, y, r in pack(items, 1200, 740)]
+        out = a.out or base + "_sources.svg"
+        rates = {n: v[1] / v[0] for n, v in stats.items()}
+        open(out, "w", encoding="utf-8").write(
+            svg(placed, f"Download sources (n={covered} posts with Sources; size = posts, color green to red = share with a problem tag)",
+                lambda l, i: rate_color(rates[l])))
+        print(f"Saved {out}")
+        print(f"Posts with a Sources: note: {covered} of {len(rows)}; of those, {problems_with_src} are problem posts")
+        for n, c in items:
+            print(f"  {n}: {c} posts, {round(100 * rates[n])}% problem")
         return
 
     sel = rows
