@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plumbob Protector</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Allura&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main class="wrap">
+
+    <header class="hero">
+      <div class="hero-text">
+        <span class="eyebrow">a Sims 4 mods &amp; CC safety guide</span>
+        <h1>Plumbob Protector</h1>
+        <p class="lede">
+          A gentle guide to downloading custom content without the scary parts, built from real posts
+          players wrote when something went right, or wrong.
+          <span class="kao">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</span>
+        </p>
+      </div>
+
+      <svg class="bloom" viewBox="0 0 160 160" role="img" aria-label="A soft pink cherry blossom with green leaves">
+        <defs>
+          <radialGradient id="petal" cx="50%" cy="70%" r="75%">
+            <stop offset="0" stop-color="#f5a9bd" />
+            <stop offset="0.55" stop-color="#f9cfda" />
+            <stop offset="1" stop-color="#fee0e9" />
+          </radialGradient>
+        </defs>
+
+        <g fill="#c7dd9d" opacity="0.9">
+          <ellipse cx="30" cy="124" rx="22" ry="9" transform="rotate(-35 30 124)" />
+          <ellipse cx="134" cy="128" rx="22" ry="9" transform="rotate(35 134 128)" />
+        </g>
+
+        <g fill="url(#petal)">
+          <ellipse cx="80" cy="40" rx="24" ry="34" />
+          <ellipse cx="80" cy="40" rx="24" ry="34" transform="rotate(72 80 80)" />
+          <ellipse cx="80" cy="40" rx="24" ry="34" transform="rotate(144 80 80)" />
+          <ellipse cx="80" cy="40" rx="24" ry="34" transform="rotate(216 80 80)" />
+          <ellipse cx="80" cy="40" rx="24" ry="34" transform="rotate(288 80 80)" />
+        </g>
+
+        <circle cx="80" cy="80" r="11" fill="#f08aa6" />
+
+        <g fill="#ffffff" opacity="0.9">
+          <circle cx="70" cy="30" r="3" />
+          <circle cx="118" cy="92" r="2.4" />
+          <circle cx="44" cy="96" r="2" />
+          <circle cx="140" cy="30" r="2.6" />
+        </g>
+      </svg>
+    </header>
+
+    <section id="checklist">
+      <div class="sec-head">
+        <span class="tag">step one</span>
+        <h2>Before you download</h2>
+        <p>
+          Tick these off as you go. Your little helper gets happier with every one.
+          Nothing is saved except on this device.
+        </p>
+      </div>
+
+      <div class="card meter-card">
+        <div class="meter-top">
+          <div class="face" id="face" aria-hidden="true">(・_・)</div>
+          <div class="meter-copy">
+            <strong id="meterText">0 of 8 checked</strong>
+            <span class="meter-sub" id="meterSub">Start with where the file comes from.</span>
+          </div>
+        </div>
+
+        <div class="bar" id="bar" role="progressbar" aria-label="Checklist progress"
+             aria-valuemin="0" aria-valuemax="8" aria-valuenow="0">
+          <span id="barFill"></span>
+        </div>
+
+        <ul class="checks" id="checks">
+          <li>
+            <label>
+              <input type="checkbox" id="c0">
+              <span>
+                It comes from the creator's own page (Patreon, their site, or their Tumblr).
+                <span class="why">You can see who made it, when it was updated, and what changed.</span>
+              </span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c1">
+              <span>
+                The page shows a recent update date and says what changed.
+                <span class="why">Old, unmaintained mods were the ones people said got abused in past malware reports.</span>
+              </span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c2">
+              <span>
+                The zip only holds .package or .ts4script files, and nothing ending in .exe.
+                <span class="why">Mods never need an .exe. Open the zip before you drop it in.</span>
+              </span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c3">
+              <span>
+                No pop-ups, redirects, link shorteners, or fake download buttons on the way.
+                <span class="why">If a button sends you to another site you didn't expect, close the tab.</span>
+              </span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c4">
+              <span>My ad blocker is on and my antivirus is up to date.</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c5">
+              <span>
+                If anything felt off, I scanned the file first.
+                <span class="why">VirusTotal or Windows Security both work for a quick look.</span>
+              </span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c6">
+              <span>My saves and Mods folder are backed up.</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" id="c7">
+              <span>
+                I'm adding new files a few at a time.
+                <span class="why">If the game starts crashing, you know which batch to blame.</span>
+              </span>
+            </label>
+          </li>
+        </ul>
+
+        <button class="reset" id="reset" type="button">Start over</button>
+      </div>
+    </section>
+
+    <section id="files">
+      <div class="sec-head">
+        <span class="tag">step two</span>
+        <h2>Know your file types</h2>
+        <p>One of the quickest checks you can do is look at the file ending.</p>
+      </div>
+
+      <div class="files">
+        <div class="card file ok">
+          <span class="ext">.package</span>
+          <span class="verdict">Normal ✓</span>
+          <p>Most CC: hair, clothes, furniture, poses. If it only holds .package files, that is the expected look.</p>
+        </div>
+        <div class="card file watch">
+          <span class="ext">.ts4script</span>
+          <span class="verdict">Trusted creators only</span>
+          <p>Script mods that change gameplay. They run code, so get them from creators you know, and re-check after a game patch.</p>
+        </div>
+        <div class="card file no">
+          <span class="ext">.exe</span>
+          <span class="verdict">Never ✗</span>
+          <p>A mod has no reason to ship a program. Delete it, and don't open it.</p>
+        </div>
+      </div>
+
+      <div class="path"><code>Documents / Electronic Arts / The Sims 4 / Mods</code></div>
+      <p class="note">
+        Script mods only work if they sit at most one folder deep inside Mods. Keep spare folders
+        outside it and move in only what you want to use.
+      </p>
+    </section>
+
+    <section id="reported">
+      <div class="sec-head">
+        <span class="tag">what we found</span>
+        <h2>What players reported</h2>
+        <p>We read 154 posts from r/thesims, r/ModTheSims4, r/sims4cc and r/thesimscc and coded what happened in each.</p>
+      </div>
+
+      <div class="card">
+        <div class="stats">
+          <div class="stat calm"><span>No problem</span><div class="bar"><span style="--w:100%"></span></div><b>54</b></div>
+          <div class="stat"><span>Malware / virus scare</span><div class="bar"><span style="--w:98%"></span></div><b>53</b></div>
+          <div class="stat calm"><span>Download help</span><div class="bar"><span style="--w:57%"></span></div><b>31</b></div>
+          <div class="stat"><span>Game errors / conflicts</span><div class="bar"><span style="--w:35%"></span></div><b>19</b></div>
+          <div class="stat"><span>Scam / fake download page</span><div class="bar"><span style="--w:33%"></span></div><b>18</b></div>
+          <div class="stat"><span>Account / info theft</span><div class="bar"><span style="--w:20%"></span></div><b>11</b></div>
+          <div class="stat"><span>Corrupted / broken save</span><div class="bar"><span style="--w:19%"></span></div><b>10</b></div>
+          <div class="stat"><span>Phishing / social engineering</span><div class="bar"><span style="--w:4%"></span></div><b>2</b></div>
+        </div>
+        <p class="note">
+          These are posts people chose to write, so they show what gets reported, not how often
+          problems really happen. A post with two tags counts in both rows.
+        </p>
+      </div>
+    </section>
+
+    <section id="problems">
+      <div class="sec-head">
+        <span class="tag">step three</span>
+        <h2>When something looks wrong</h2>
+        <p>The common trouble spots, what they look like, and what to do next.</p>
+      </div>
+
+      <div class="problems">
+        <article class="card problem border-rose">
+          <span class="sign kao">(´;ω;`) virus or malware scare</span>
+          <h3>Antivirus flags a file</h3>
+          <ul>
+            <li>Stop. Don't open it again.</li>
+            <li>Run a full scan with Windows Security or another antivirus.</li>
+            <li>Move the file out of Mods and delete it.</li>
+            <li>Check the creator's page for a warning or a fixed version.</li>
+          </ul>
+        </article>
+
+        <article class="card problem border-green">
+          <span class="sign kao">(⊙_⊙)? scam or fake download page</span>
+          <h3>The site acts strange</h3>
+          <ul>
+            <li>Close pages that redirect you or fill with pop-ups.</li>
+            <li>Skip link shorteners, survey walls, and extra "download managers".</li>
+            <li>Go back to the creator's own page and start again from there.</li>
+          </ul>
+        </article>
+
+        <article class="card problem border-rose">
+          <span class="sign kao">(╥﹏╥) account or info theft</span>
+          <h3>Someone is in your accounts</h3>
+          <ul>
+            <li>From a different, clean device, change your passwords.</li>
+            <li>Turn on two-step login for email, Discord, and the EA account.</li>
+            <li>Scan the computer you downloaded on before using it again.</li>
+          </ul>
+        </article>
+
+        <article class="card problem border-green">
+          <span class="sign kao">(・・;) game errors or a broken save</span>
+          <h3>Crashes after an update</h3>
+          <ul>
+            <li>Remove script mods first, then test again.</li>
+            <li>Halve your Mods folder over and over (the 50/50 method) to find the culprit.</li>
+            <li>Tools like Better Exceptions can name the broken file.</li>
+            <li>Restore from your backup if a save won't load.</li>
+          </ul>
+        </article>
+
+        <article class="card problem border-rose">
+          <span class="sign kao">(・ω・) phishing and social engineering</span>
+          <h3>A message asks for your login</h3>
+          <ul>
+            <li>Be wary of DMs about giveaways or "verify your account".</li>
+            <li>Check that a Patreon or Tumblr link goes to the real creator.</li>
+            <li>Real creators don't ask for your password.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="sources">
+      <div class="sec-head">
+        <span class="tag">helpful places</span>
+        <h2>Helpful sources</h2>
+        <p>
+          Where people get CC and mods, plus tools for staying safe. No place is perfectly safe,
+          so the checklist applies everywhere.
+        </p>
+      </div>
+
+      <div class="sources">
+        <article class="card source">
+          <span class="kind">Creator page</span>
+          <h3>Patreon</h3>
+          <p>Commenters in the posts we read pointed to creators' Patreon pages most often. You can see the author, update notes, and the date.</p>
+          <span class="go"><a href="https://www.patreon.com" target="_blank" rel="noopener">patreon.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Creator page</span>
+          <h3>Tumblr</h3>
+          <p>Many CC creators post their downloads on their own blogs. Check that the link goes to the creator, not a middle site.</p>
+          <span class="go"><a href="https://www.tumblr.com" target="_blank" rel="noopener">tumblr.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Creator page</span>
+          <h3>Lumpinou Mods</h3>
+          <p>An example of a mod creator with their own website and a Patreon, so every update has a home you can check.</p>
+          <span class="go"><a href="https://lumpinoumods.com" target="_blank" rel="noopener">lumpinoumods.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Big hub</span>
+          <h3>The Sims Resource</h3>
+          <p>A huge library with many creators. Use the site's own download button, and close anything that looks like a pop-up or an extra installer.</p>
+          <span class="go"><a href="https://www.thesimsresource.com" target="_blank" rel="noopener">thesimsresource.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Big hub</span>
+          <h3>CurseForge</h3>
+          <p>Hosts mods from lots of authors. Commenters named it as one of the hubs hit in an earlier malware wave, so check the creator and the update date.</p>
+          <span class="go"><a href="https://www.curseforge.com/sims4" target="_blank" rel="noopener">curseforge.com/sims4</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Big hub</span>
+          <h3>Mod The Sims</h3>
+          <p>A long-running community site with many older files. Prefer recently updated items from named creators.</p>
+          <span class="go"><a href="https://modthesims.info" target="_blank" rel="noopener">modthesims.info</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Safety tool</span>
+          <h3>VirusTotal</h3>
+          <p>Upload a file and see what many scanners say. A single odd flag can be a false alarm, so look at the pattern.</p>
+          <span class="go"><a href="https://www.virustotal.com" target="_blank" rel="noopener">virustotal.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Safety info</span>
+          <h3>Scarlet's Realm: malware info</h3>
+          <p>A write-up of the Sims 4 mod malware incidents, linked by the community in r/thesims.</p>
+          <span class="go"><a href="https://scarletsrealm.com/malware-mod-information/" target="_blank" rel="noopener">scarletsrealm.com</a></span>
+        </article>
+
+        <article class="card source">
+          <span class="kind">Creator tool</span>
+          <h3>Sims 4 Studio</h3>
+          <p>The free tool most creators use to make and edit CC. Download it only from its own site.</p>
+          <span class="go"><a href="https://sims4studio.com" target="_blank" rel="noopener">sims4studio.com</a></span>
+        </article>
+      </div>
+    </section>
+
+    <section id="sos" class="sos">
+      <div class="sec-head">
+        <span class="tag">just in case</span>
+        <h2>Think you downloaded something bad?</h2>
+      </div>
+
+      <div class="card">
+        <ol>
+          <li>Stay calm. Close the game and the browser.</li>
+          <li>Remove the new file from your Mods folder.</li>
+          <li>Run a full antivirus scan.</li>
+          <li>On a clean device, change passwords for email, Discord, and EA.</li>
+          <li>Turn on two-step login wherever you can.</li>
+          <li>Tell the creator and the community, so others avoid it.</li>
+        </ol>
+      </div>
+    </section>
+
+    <footer>
+      <span class="kao">Thank you for keeping your sims safe ♡ (づ｡◕‿‿◕｡)づ</span>
+      <span>
+        Plumbob Protector is a student research project. It is not affiliated with EA or Maxis,
+        and this page is guidance, not a guarantee.
+      </span>
+    </footer>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
